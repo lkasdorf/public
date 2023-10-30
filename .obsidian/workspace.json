@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTES/my_domains.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTES/my_domains.md",
+                "file": "TODO.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOTES/my_domains.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTES/my_domains.md"
+                "file": "TODO.md"
               }
             }
           }
@@ -151,6 +151,10 @@
   },
   "active": "61f3e84a2ef63297",
   "lastOpenFiles": [
+    "NOTES/Tanzania.md",
+    "TODO.md",
+    "NOTES/plain_text_notes.md",
+    "NOTES/my_domains.md",
     "KNOWLEDGE/S4UTILITES.md",
     "KNOWLEDGE/Linux.md",
     "KNOWLEDGE/Finance.md",
@@ -158,8 +162,6 @@
     "COLLECTIONS/Markdown_Guide.md",
     "COLLECTIONS/markdown-cheat-sheet.md",
     "COLLECTIONS/Vim_cheatsheet.md",
-    "TODO.md",
-    "NOTES/my_domains.md",
     "NOTES/nvim.md",
     "NOTES/Videos to watch (YT).md",
     "NOTES/SwitchToLinux.md",
@@ -193,8 +195,6 @@
     "media/media-lCtLKA.png",
     "fake_mails.md",
     "02-Areas/SBR/SBR Information.md",
-    "02-Areas/SBR/SBR Fundis.md",
-    "02-Areas/SBR/Q2_2023 Update.md",
     "export/Landlord Appolenia Agather Mbowe.odt",
     "KNOWLEDGE/KNOWLEDGE/S4UTILITES",
     "Untitled.canvas"

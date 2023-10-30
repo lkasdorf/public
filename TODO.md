@@ -1,9 +1,6 @@
-- [Jeff Huang: Over 14 years of todos recorded in text](https://jeffhuang.com/productivity_text_file/)
-- [Plain text note taking system using markdown for technical notes](https://automationhacks.io/2019/10/19/plain-text-note-taking-system-using-markdown-for-technical-notes/)
-- [3 plain text note-taking tools](https://opensource.com/article/21/1/plain-text#:~:text=Plain%20text%20is%20the%20most,in%20a%20plain%20text%20document.)
-- [The Plain Text Life: Note Taking, Writing and Life Organization Using Plain Text Files](http://www.markwk.com/plain-text-life.html)
-- [Plain Text by brajeshwar](https://brajeshwar.com/2022/plain-text/)
-- [markdown-cheat-sheet](COLLECTIONS/markdown-cheat-sheet.md)
+# Links
+
+[plain_text_notes](NOTES/plain_text_notes.md)
 
 # 2023-10-23 monday
 
