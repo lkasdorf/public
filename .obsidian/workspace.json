@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEST/test.md",
+                "file": "Journal.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TEST/test.md",
+                "file": "Journal.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TEST/test.md",
+                "file": "Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEST/test.md"
+                "file": "Journal.md"
               }
             }
           }
@@ -151,8 +151,8 @@
   },
   "active": "6769225a8683b2fd",
   "lastOpenFiles": [
-    "Journal.md",
     "TEST/test.md",
+    "Journal.md",
     "TEST",
     "TODO.md",
     "README.md",
