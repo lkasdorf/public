@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal.md",
+                "file": "TODO.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal.md"
+                "file": "TODO.md"
               }
             }
           }
@@ -151,17 +151,17 @@
   },
   "active": "6769225a8683b2fd",
   "lastOpenFiles": [
-    "TEST/test.md",
-    "Journal.md",
-    "TEST",
+    "003 DAILY/2023-10-27.md",
     "TODO.md",
+    "Journal.md",
+    "TEST/test.md",
+    "TEST",
     "README.md",
     "mynotes",
     "Vault root/README.md",
     "Vault root",
     "remote-notes",
     "00-INBOX/Linux_Howto.md",
-    "003 DAILY/2023-10-27.md",
     "003 DAILY",
     "Untitled Folder",
     "00-INBOX/SwitchToLinux.md",
