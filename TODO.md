@@ -3,7 +3,7 @@
 - [3 plain text note-taking tools](https://opensource.com/article/21/1/plain-text#:~:text=Plain%20text%20is%20the%20most,in%20a%20plain%20text%20document.)
 - [The Plain Text Life: Note Taking, Writing and Life Organization Using Plain Text Files](http://www.markwk.com/plain-text-life.html)
 - [Plain Text by brajeshwar](https://brajeshwar.com/2022/plain-text/)
-- [markdown-cheat-sheet](01_PRIVATE/markdown-cheat-sheet.md)
+- [markdown-cheat-sheet](COLLECTIONS/markdown-cheat-sheet.md)
 
 # 2023-10-23 monday
 

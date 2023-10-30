@@ -51,3 +51,15 @@ sudo chmod +x /usr/bin/dumpcap
 ```
 Was ist dumpcap?
 
+# Neovim
+
+- [Install Nvim Tree](https://linovox.com/install-and-use-nvim-tree-in-neovim/)
+- [Install Which Key](https://linovox.com/install-and-set-up-which-key-in-neovim-nvim/)
+- [Install and use Packer](https://linovox.com/install-and-use-packer-in-neovim/)
+
+# Fonts Linux
+
+https://averagelinuxuser.com/microsoft-fonts-linux/
+
+sudo apt install ttf-mscorefonts-installer
+sudo apt install fonts-crosextra-carlito fonts-crosextra-caladea

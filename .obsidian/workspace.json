@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "KNOWLEDGE/KNOWLEDGE/Finance.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "KNOWLEDGE/KNOWLEDGE/Finance.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "KNOWLEDGE/KNOWLEDGE/Finance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "KNOWLEDGE/KNOWLEDGE/Finance.md"
               }
             }
           }
@@ -151,10 +151,19 @@
   },
   "active": "6769225a8683b2fd",
   "lastOpenFiles": [
-    "02_BUSINESS/KNOWLEDGE/Untitled.md",
+    "KNOWLEDGE/KNOWLEDGE/FICA.md",
+    "KNOWLEDGE/KNOWLEDGE/Finance.md",
+    "KNOWLEDGE/KNOWLEDGE/S4UTILITES.md",
+    "KNOWLEDGE/KNOWLEDGE/Linux.md",
+    "NOTES/my_domains.md",
+    "NOTES/nvim.md",
+    "NOTES/Videos to watch (YT).md",
+    "NOTES/SwitchToLinux.md",
+    "NOTES/Linux_Howto.md",
     "TODO.md",
-    "01_PRIVATE/markdown-cheat-sheet.md",
     "Journal.md",
+    "02_BUSINESS/KNOWLEDGE/Untitled.md",
+    "COLLECTIONS/markdown-cheat-sheet.md",
     "003 DAILY/2023-10-27.md",
     "TEST/test.md",
     "TEST",
@@ -163,18 +172,14 @@
     "Vault root/README.md",
     "Vault root",
     "remote-notes",
-    "00_INBOX/Linux_Howto.md",
     "003 DAILY",
     "Untitled Folder",
-    "00_INBOX/SwitchToLinux.md",
-    "00_INBOX/Domains.md",
     "kasdorf.life.md",
     "wisdom.md",
-    "01_PRIVATE/Vim cheatsheet.md",
-    "01_PRIVATE/Markdown Guide.md",
-    "01_PRIVATE",
-    "02_BUSINESS",
-    "02_BUSINESS/KNOWLEDGE/S4UTILITES/General.md",
+    "COLLECTIONS/Vim cheatsheet.md",
+    "COLLECTIONS/Markdown Guide.md",
+    "COLLECTIONS",
+    "KNOWLEDGE",
     "media/tenniscourt_design.jpeg",
     "media/tennis_court_fence.jpeg",
     "media/tennis_court.jpeg",
@@ -186,17 +191,12 @@
     "01-RESSOURCES/todos_in_text.md",
     "media/Pasted image 20231023122922.png",
     "media/media-lCtLKA.png",
-    "00_INBOX/Videos to watch (YT).md",
     "fake_mails.md",
     "02-Areas/SBR/SBR Information.md",
     "02-Areas/SBR/SBR Fundis.md",
     "02-Areas/SBR/Q2_2023 Update.md",
-    "01-Projects/RKU/NG LIEF Zeitplan.md",
-    "01-Projects/RKU/CATS NG LIEF.md",
-    "02-Areas/People/Anna.md",
-    "00_INBOX/nvim.md",
     "export/Landlord Appolenia Agather Mbowe.odt",
-    "02_BUSINESS/KNOWLEDGE/S4UTILITES",
+    "KNOWLEDGE/KNOWLEDGE/S4UTILITES",
     "Untitled.canvas"
   ]
 }
