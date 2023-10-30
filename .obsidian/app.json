@@ -12,7 +12,7 @@
   "showUnsupportedFiles": false,
   "attachmentFolderPath": "media",
   "useMarkdownLinks": true,
-  "newLinkFormat": "shortest",
+  "newLinkFormat": "absolute",
   "showLineNumber": true,
   "readableLineLength": false,
   "vimMode": true
