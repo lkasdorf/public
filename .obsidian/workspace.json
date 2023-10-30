@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal.md",
+                "file": "TEST/test.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal.md",
+                "file": "TEST/test.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal.md",
+                "file": "TEST/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal.md"
+                "file": "TEST/test.md"
               }
             }
           }
@@ -149,8 +149,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f83db4c30b4be79",
+  "active": "6769225a8683b2fd",
   "lastOpenFiles": [
+    "Journal.md",
+    "TEST/test.md",
     "TEST",
     "TODO.md",
     "README.md",
@@ -160,7 +162,6 @@
     "remote-notes",
     "00-INBOX/Linux_Howto.md",
     "003 DAILY/2023-10-27.md",
-    "Journal.md",
     "003 DAILY",
     "Untitled Folder",
     "00-INBOX/SwitchToLinux.md",
@@ -196,7 +197,6 @@
     "00-INBOX/nvim.md",
     "export/Landlord Appolenia Agather Mbowe.odt",
     "002 BUSINESS/KNOWLEDGE/S4 UTILITES",
-    "export/TODO.pdf",
     "Untitled.canvas"
   ]
 }
