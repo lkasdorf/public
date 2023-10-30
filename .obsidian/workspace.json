@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6769225a8683b2fd",
+            "id": "61f3e84a2ef63297",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KNOWLEDGE/KNOWLEDGE/Finance.md",
+                "file": "NOTES/my_domains.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNOWLEDGE/KNOWLEDGE/Finance.md",
+                "file": "NOTES/my_domains.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNOWLEDGE/KNOWLEDGE/Finance.md",
+                "file": "NOTES/my_domains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KNOWLEDGE/KNOWLEDGE/Finance.md"
+                "file": "NOTES/my_domains.md"
               }
             }
           }
@@ -149,21 +149,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6769225a8683b2fd",
+  "active": "61f3e84a2ef63297",
   "lastOpenFiles": [
-    "KNOWLEDGE/KNOWLEDGE/FICA.md",
-    "KNOWLEDGE/KNOWLEDGE/Finance.md",
-    "KNOWLEDGE/KNOWLEDGE/S4UTILITES.md",
-    "KNOWLEDGE/KNOWLEDGE/Linux.md",
+    "KNOWLEDGE/S4UTILITES.md",
+    "KNOWLEDGE/Linux.md",
+    "KNOWLEDGE/Finance.md",
+    "KNOWLEDGE/FICA.md",
+    "COLLECTIONS/Markdown_Guide.md",
+    "COLLECTIONS/markdown-cheat-sheet.md",
+    "COLLECTIONS/Vim_cheatsheet.md",
+    "TODO.md",
     "NOTES/my_domains.md",
     "NOTES/nvim.md",
     "NOTES/Videos to watch (YT).md",
     "NOTES/SwitchToLinux.md",
     "NOTES/Linux_Howto.md",
-    "TODO.md",
     "Journal.md",
     "02_BUSINESS/KNOWLEDGE/Untitled.md",
-    "COLLECTIONS/markdown-cheat-sheet.md",
     "003 DAILY/2023-10-27.md",
     "TEST/test.md",
     "TEST",
@@ -176,8 +178,6 @@
     "Untitled Folder",
     "kasdorf.life.md",
     "wisdom.md",
-    "COLLECTIONS/Vim cheatsheet.md",
-    "COLLECTIONS/Markdown Guide.md",
     "COLLECTIONS",
     "KNOWLEDGE",
     "media/tenniscourt_design.jpeg",

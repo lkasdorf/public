@@ -140,6 +140,7 @@
 ## personal notes
 
  - Should I sync my notes with github? How secure is it?
+	 - I did it. Ich muss das noch dokumentieren.
 
 # 2023-10-31 tuesday
 
