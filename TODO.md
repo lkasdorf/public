@@ -148,7 +148,3 @@
   - 10:00 *Kaffon*: Inspection NSSF (HQ)
   - 13:00 *RKU*: NG Lief+Netz Transformation ENRW - Sichtung des Altsystems
 
-TEST
-TEST2
-Test3
-Test4
