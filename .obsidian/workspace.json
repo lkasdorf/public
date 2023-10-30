@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "057e62001aa596db",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e4c87e02d3dd6e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6769225a8683b2fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4135412dcebab2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a80e5e40e34b2969",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f83db4c30b4be79",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06c1cc4d4bcac0f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file: TO",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23e7ecf66fa898ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "81fc1de8675c5efa",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb45bd9e6ff8090a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ef7da203e8d4ce3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TODO.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "374a3ea8a4e3774c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TODO.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f8324c1af64bc26",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "67e0fa202a938d61",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TODO.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "3f83db4c30b4be79",
+  "lastOpenFiles": [
+    "remote-notes",
+    "00-INBOX/Linux_Howto.md",
+    "TODO.md",
+    "003 DAILY/2023-10-27.md",
+    "Journal.md",
+    "003 DAILY",
+    "Untitled Folder",
+    "00-INBOX/SwitchToLinux.md",
+    "00-INBOX/Domains.md",
+    "kasdorf.life.md",
+    "wisdom.md",
+    "001 PRIVATE/Vim cheatsheet.md",
+    "001 PRIVATE/markdown-cheat-sheet.md",
+    "001 PRIVATE/Markdown Guide.md",
+    "001 PRIVATE",
+    "002 BUSINESS",
+    "002 BUSINESS/KNOWLEDGE/S4 UTILITES/Allgemeine Informationen.md",
+    "002 BUSINESS/KNOWLEDGE/Untitled.md",
+    "media/tenniscourt_design.jpeg",
+    "media/tennis_court_fence.jpeg",
+    "media/tennis_court.jpeg",
+    "media/recreation.jpeg",
+    "media/qownnotes-media-AyMFMu.png",
+    "media/playground.jpeg",
+    "media/Pasted image 20231023191043.png",
+    "media/appolenia.png",
+    "01-RESSOURCES/todos_in_text.md",
+    "media/Pasted image 20231023122922.png",
+    "media/media-lCtLKA.png",
+    "00-INBOX/Videos to watch (YT).md",
+    "fake_mails.md",
+    "02-Areas/SBR/SBR Information.md",
+    "02-Areas/SBR/SBR Fundis.md",
+    "02-Areas/SBR/Q2_2023 Update.md",
+    "01-Projects/RKU/NG LIEF Zeitplan.md",
+    "01-Projects/RKU/CATS NG LIEF.md",
+    "02-Areas/People/Anna.md",
+    "00-INBOX/nvim.md",
+    "02-Areas/House/Landlord Appolenia Agather Mbowe.md",
+    "export/Landlord Appolenia Agather Mbowe.odt",
+    "002 BUSINESS/KNOWLEDGE/S4 UTILITES",
+    "export/TODO.pdf",
+    "export/TODO.docx",
+    "export",
+    "02-Areas/People",
+    "02 Areas/IT-Support/Stichling/Maximus Apple Account.md",
+    "Untitled.canvas"
+  ]
+}

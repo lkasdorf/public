@@ -1,0 +1,14 @@
+Linux Terminal Tools
+========================
+
+ - ranger
+     - File management
+ - trash-cli
+     - use trash in terminal (rm removes forever)
+ - pfetch
+     - like neofetch
+ - htop
+     - terminal system monitor
+ - ncdu
+     - storage analyzer (nice!)
+ - speedread

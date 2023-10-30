@@ -1,0 +1,16 @@
+- Godaddy
+	- kasdorf.biz
+	- d3rpr0f1.com
+	- d3rpr0f1.de
+- Hostinger
+	- [leonkasdorf.com](https://leonkasdorf.com/) - [WP](https://leonkasdorf.com/wp-admin/)
+	- [kasdorf.life](https://kasdorf.life) - [WP](https://kasdorf.life/wp-admin/about.php)
+	- [lktechnotes.com](https://lktechnotes.com/) - [WP](https://lktechnotes.com/wp-admin/index.php)
+- Duhosting (Registriert auf Kaffon)
+	- [kaffon.co.tz](https://www.kaffon.co.tz/) - [WP](https://kaffon.co.tz/wp-admin/)
+		- Webhosting bei Hostinger
+	- kaffon.tz
+	- kasdorf.co.tz
+	- kasdorf.tz
+	- kigamboni.tz
+	- kuku.tz

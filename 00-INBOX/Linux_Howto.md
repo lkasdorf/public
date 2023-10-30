@@ -1,0 +1,53 @@
+# Terminal Tools
+
+ - ranger
+     - File management
+ - trash-cli
+     - use trash in terminal (rm removes forever)
+ - pfetch
+     - like neofetch
+ - htop
+     - terminal system monitor
+ - ncdu
+     - storage analyzer (nice!)
+ - speedread
+ - glances
+ - inxi -Fxz
+	 - System information
+
+# Guides
+
+- [Creating a Searchable Desktop Icon for Appimage Software on Linux](https://medium.com/@itsmrcrabss/creating-a-searchable-desktop-icon-for-appimage-software-on-linux-82dc9f62ca51)
+	- [Archive](https://web.archive.org/web/20231024140700/https://medium.com/@itsmrcrabss/creating-a-searchable-desktop-icon-for-appimage-software-on-linux-82dc9f62ca51)
+ - [VIM Tutorial](https://www.freecodecamp.org/news/learn-linux-vim-basic-features-19134461ab85/#:~:text=Yes%2C%20Vim%20provides%20a%20simple,exit%20the%20explorer%20and%20vim.)
+ - [Logitech Streamcam config](https://davejansen.com/logitech-streamcam-on-linux/)
+    - [Archiv](https://web.archive.org/web/20230519220215/https://davejansen.com/logitech-streamcam-on-linux/)
+- [Linux Full Guide - FOSSPOST](https://fosspost.org/linux-full-guide/)
+- [Twingate Linux](https://www.twingate.com/docs/linux)
+
+# VIM
+ - [Vim Cheat Sheet](https://vim.rtorr.com/)
+ - [Vim cheatsheet - devhints](https://devhints.io/vim)
+
+# Terminal
+- [# From Noob To Power User With Linux Mint Cinnamon](https://www.youtube.com/watch?v=TKX29fJ8U2Y)
+	- Hier habe ich rofi kennengelernt. Das ist mal richtig cool. Poweruser Style.
+
+# Display Hardware Information
+
+[TOP 5 COMMANDS TO DISPLAY HARDWARE INFORMATION ON LINUX](https://freelinuxtutorials.com/top-5-commands-to-display-hardware-information-on-linux/)
+Alle Informationen: inxi -Fxz
+
+# Network
+
+## Wireshark
+
+ - Wenn man das System package installiert, fehlen Berechtigungen
+ - Folgendes muss ausgeführt werden nach der Installation von Wireshark
+
+```
+sudo dpkg-reconfigure wireshark-common
+sudo chmod +x /usr/bin/dumpcap	
+```
+Was ist dumpcap?
+
