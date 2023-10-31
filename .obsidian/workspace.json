@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTES/plain_text_notes.md",
-                "mode": "preview",
+                "file": "NOTES/My Domains.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: TO",
+                "query": "tag:#Linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTES/plain_text_notes.md",
+                "file": "NOTES/My Domains.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOTES/plain_text_notes.md",
+                "file": "NOTES/My Domains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,8 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTES/plain_text_notes.md"
+                "file": "NOTES/My Domains.md"
               }
+            }
+          },
+          {
+            "id": "90a7401f752d970d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
@@ -134,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 375.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,16 +159,16 @@
   },
   "active": "61f3e84a2ef63297",
   "lastOpenFiles": [
-    "KNOWLEDGE/FICA.md",
+    "TODO.md",
+    "NOTES/Linux.md",
+    "NOTES/Links for S4 Utilities.md",
     "NOTES/RKU NG Sperrbeleg anlegen.md",
     "NOTES/Tanzania.md",
-    "TODO.md",
-    "Journal.md",
-    "NOTES/plain_text_notes.md",
-    "KNOWLEDGE/Linux.md",
-    "KNOWLEDGE/S4UTILITES.md",
+    "NOTES/Plan Text Notes Information.md",
+    "KNOWLEDGE/FICA.md",
     "KNOWLEDGE/Finance.md",
-    "NOTES/my_domains.md",
+    "NOTES/My Domains.md",
+    "Journal.md",
     "COLLECTIONS/Markdown_Guide.md",
     "COLLECTIONS/markdown-cheat-sheet.md",
     "COLLECTIONS/Vim_cheatsheet.md",

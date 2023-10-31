@@ -1,3 +1,5 @@
+#wordpress #domains 
+
 - Godaddy
 	- kasdorf.biz
 	- d3rpr0f1.com (MX -> proton)

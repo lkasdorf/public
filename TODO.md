@@ -1,6 +1,6 @@
 # Links
 
-[plain_text_notes](NOTES/plain_text_notes.md)
+[Plan Text Notes Information](NOTES/Plan%20Text%20Notes%20Information.md)
 
 # 2023-10-23 monday
 
