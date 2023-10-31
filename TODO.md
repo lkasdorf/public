@@ -145,4 +145,5 @@
  - *Kaffon*: Boardmeetings: Liste erstellen
 	 - Wann muss das erste Jährliche Boardmeeting stattfinden?
   - 10:00 *Kaffon*: Inspection NSSF (HQ)
+	  - 
   - 13:00 *RKU*: NG Lief+Netz Transformation ENRW - Sichtung des Altsystems
