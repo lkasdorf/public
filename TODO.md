@@ -147,6 +147,7 @@
 	  - Sie wollte nur die Zertifikate und die Unterlagen von Mitarbeitern sehen
 	  - Die Steuererklärung hat sie sich nicht angeschaut
   - 13:00 *RKU*: NG Lief+Netz Transformation ENRW - Sichtung des Altsystems (Rottweil)
+	  - CATS für diese Termine: 2006242 / SR-2333505
 	  - Unser Workshop am 13.11.2023 (Montag)
 	  - Workshops
 		  - Kein Fokus auf den Kunden, sondern auf die Dinge, die wir im System haben
