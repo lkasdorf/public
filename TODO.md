@@ -168,7 +168,7 @@
 		- 10126667147
 	- Leventh Önder extern
 	- Phillip Siegfranz intern (aber nett)
-	- Sperrbeleg anlegen [RKU_NG_VNB](NOTES/RKU_NG_VNB.md) 
+	- Sperrbeleg anlegen [RKU NG Sperrbeleg anlegen](NOTES/RKU%20NG%20Sperrbeleg%20anlegen.md) 
  - *Docmorris*: Fehler Retoure HSL
 	 - [Klarna HSL: Buchung Zahlungsausgang aus Retoure Falsch (TVG 0019 fehlt - DDO-1152)](https://docmorrisgroup.atlassian.net/browse/DDO-1152)
 	 - Das habe ich Peter zugewiesen. Er muss den Teilvorgang bei Retoure über die Tabelle "/CHCNL/FKK_TVORG" ermitteln. Zurzeit wird da irgendwa komkateniert und das passt nicht mehr mit den neuen Klarna Zahlwegen (0 und N) zusammen.

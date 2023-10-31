@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "NOTES/plain_text_notes.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "NOTES/plain_text_notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "NOTES/plain_text_notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "NOTES/plain_text_notes.md"
               }
             }
           }
@@ -151,14 +151,15 @@
   },
   "active": "61f3e84a2ef63297",
   "lastOpenFiles": [
+    "KNOWLEDGE/FICA.md",
+    "NOTES/RKU NG Sperrbeleg anlegen.md",
+    "NOTES/Tanzania.md",
+    "TODO.md",
+    "Journal.md",
+    "NOTES/plain_text_notes.md",
     "KNOWLEDGE/Linux.md",
     "KNOWLEDGE/S4UTILITES.md",
-    "NOTES/RKU_NG_VNB.md",
-    "TODO.md",
-    "NOTES/Tanzania.md",
-    "KNOWLEDGE/FICA.md",
     "KNOWLEDGE/Finance.md",
-    "NOTES/plain_text_notes.md",
     "NOTES/my_domains.md",
     "COLLECTIONS/Markdown_Guide.md",
     "COLLECTIONS/markdown-cheat-sheet.md",
@@ -167,7 +168,6 @@
     "NOTES/Videos to watch (YT).md",
     "NOTES/SwitchToLinux.md",
     "NOTES/Linux_Howto.md",
-    "Journal.md",
     "02_BUSINESS/KNOWLEDGE/Untitled.md",
     "003 DAILY/2023-10-27.md",
     "TEST/test.md",
