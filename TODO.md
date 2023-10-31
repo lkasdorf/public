@@ -170,8 +170,12 @@
 	- Phillip Siegfranz intern (aber nett)
 	- Sperrbeleg anlegen [RKU_NG_VNB](NOTES/RKU_NG_VNB.md) 
 
----
+
+# 2023-11-01 wednesday
+
+Notes: All Saints Day
 
  - *RKU*: DMEE und Zahlungsträger dokumentieren
  - *Kaffon*: Boardmeetings: Liste erstellen
 	 - Wann muss das erste Jährliche Boardmeeting stattfinden?
+- 11:00 *RKU*: **Meeting**: Abstimmung ENWR - Vorbereitung Workshop
