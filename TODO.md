@@ -141,9 +141,20 @@
 
 # 2023-10-31 tuesday
 
+
+  - 10:00 *Kaffon*: Inspection NSSF (HQ)
+	  - Diese Inspektion wird alle 6 Monate durchgeführt
+	  - Sie wollte nur die Zertifikate und die Unterlagen von Mitarbeitern sehen
+	  - Die Steuererklärung hat sie sich nicht angeschaut
+  - 13:00 *RKU*: NG Lief+Netz Transformation ENRW - Sichtung des Altsystems (Rottweil)
+	  - Workshops
+		  - Kein Fokus auf den Kunden, sondern auf die Dinge, die wir im System haben
+	- Es fehlt eine übergreifende Abstimmung der Teilprojekte
+		- Verzahnung der Geschäftsprozesse (Beispiel MOSB und Memi) sollte gezeigt werden (Streams)
+	- Markus: EEG-Billing
+
+---
+
  - *RKU*: DMEE und Zahlungsträger dokumentieren
  - *Kaffon*: Boardmeetings: Liste erstellen
 	 - Wann muss das erste Jährliche Boardmeeting stattfinden?
-  - 10:00 *Kaffon*: Inspection NSSF (HQ)
-	  - 
-  - 13:00 *RKU*: NG Lief+Netz Transformation ENRW - Sichtung des Altsystems
