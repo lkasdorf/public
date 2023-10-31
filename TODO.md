@@ -186,4 +186,4 @@ Notes: All Saints Day
 - 11:00 *RKU*: **Meeting**: Abstimmung ENWR - Vorbereitung Workshop
 	- Abrechnung Sperrkosten mit Karl korrigieren
 - *Docmorris*: Korrektur Belegart D1
-- 
+- *Kaffon*: TRA Uploads und Buchungen
