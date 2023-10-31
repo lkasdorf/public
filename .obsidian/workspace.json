@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTES/My Domains.md",
+                "file": "00 TODO.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTES/My Domains.md",
+                "file": "00 TODO.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOTES/My Domains.md",
+                "file": "00 TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTES/My Domains.md"
+                "file": "00 TODO.md"
               }
             }
           },
@@ -159,15 +159,15 @@
   },
   "active": "61f3e84a2ef63297",
   "lastOpenFiles": [
-    "TODO.md",
-    "NOTES/Linux.md",
     "NOTES/Links for S4 Utilities.md",
+    "00 TODO.md",
+    "NOTES/My Domains.md",
+    "NOTES/Linux.md",
     "NOTES/RKU NG Sperrbeleg anlegen.md",
     "NOTES/Tanzania.md",
     "NOTES/Plan Text Notes Information.md",
     "KNOWLEDGE/FICA.md",
     "KNOWLEDGE/Finance.md",
-    "NOTES/My Domains.md",
     "Journal.md",
     "COLLECTIONS/Markdown_Guide.md",
     "COLLECTIONS/markdown-cheat-sheet.md",

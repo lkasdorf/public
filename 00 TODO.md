@@ -162,6 +162,7 @@
 	- Termin morgen mit Karl wegen Sperrprozess
  - Meeting Markus Berger/Mohamed
 	 - Noch mal versucht, über Debugger den Mabis Fehler nachzustellen
+	 - Es lag an den Berechtigungen des Systmusers. Das wurde dann behoben und die Belege laufen jetzt auch beim ersten mal durch.
 - Meeting Dirk Friedrich Sperrprozess
 	- Beispiele MALO für Sperrungen auf Q1D 105
 		- 10126641290
