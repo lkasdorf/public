@@ -169,6 +169,7 @@
 	- Leventh Önder extern
 	- Phillip Siegfranz intern (aber nett)
 	- Sperrbeleg anlegen [RKU_NG_VNB](NOTES/RKU_NG_VNB.md) 
+ - *Docmorris*
 
 
 # 2023-11-01 wednesday
