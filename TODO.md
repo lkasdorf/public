@@ -158,6 +158,7 @@
 		- 2 Mandanten auf einem System (LIEF und VNB)
 	- Themen für uns
 		- Convergent Invoicing
+	- TODO: Dirk Friedrich fragen nach 
 
 ---
 
