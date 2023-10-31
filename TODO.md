@@ -169,7 +169,11 @@
 	- Leventh Önder extern
 	- Phillip Siegfranz intern (aber nett)
 	- Sperrbeleg anlegen [RKU_NG_VNB](NOTES/RKU_NG_VNB.md) 
- - *Docmorris*
+ - *Docmorris*: Fehler Retoure HSL
+	 - [Klarna HSL: Buchung Zahlungsausgang aus Retoure Falsch (TVG 0019 fehlt - DDO-1152)](https://docmorrisgroup.atlassian.net/browse/DDO-1152)
+- *Docmorris*: Fehler Belegbuchung mit Partnergesellschaft
+	- Ich habe das Kennzeichen "Gesellschaftsübergreifend" in der T003 für die Belegart D1 gesetzt (direkt auf der Datenbank)
+	- Das muss noch in der HRD geändert werden und transportiert werden (morgen)
 
 
 # 2023-11-01 wednesday
@@ -180,3 +184,6 @@ Notes: All Saints Day
  - *Kaffon*: Boardmeetings: Liste erstellen
 	 - Wann muss das erste Jährliche Boardmeeting stattfinden?
 - 11:00 *RKU*: **Meeting**: Abstimmung ENWR - Vorbereitung Workshop
+	- Abrechnung Sperrkosten mit Karl korrigieren
+- *Docmorris*: Korrektur Belegart D1
+- 
