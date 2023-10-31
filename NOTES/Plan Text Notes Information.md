@@ -1,3 +1,5 @@
+#plaintext
+
 # Interesting Insights and Links
 
 - [Jeff Huang: Over 14 years of todos recorded in text](https://jeffhuang.com/productivity_text_file/)
