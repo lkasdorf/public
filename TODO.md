@@ -168,6 +168,7 @@
 		- 10126667147
 	- Leventh Önder extern
 	- Phillip Siegfranz intern (aber nett)
+	- Sperrbeleg anlegen [RKU_NG_VNB](NOTES/RKU_NG_VNB.md) 
 
 ---
 
