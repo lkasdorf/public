@@ -161,7 +161,13 @@
 	- ~~TODO: Dirk Friedrich fragen nach~~ 
 	- Termin morgen mit Karl wegen Sperrprozess
  - Meeting Markus Berger/Mohamed
-	 - Noch mal versucht, über Debugger den Mabis Fehler nachzustellen 
+	 - Noch mal versucht, über Debugger den Mabis Fehler nachzustellen
+- Meeting Dirk Friedrich Sperrprozess
+	- Beispiele MALO für Sperrungen auf Q1D 105
+		- 10126641290
+		- 10126667147
+	- Leventh Önder extern
+	- Phillip Siegfranz intern (aber nett)
 
 ---
 
