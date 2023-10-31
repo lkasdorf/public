@@ -10,3 +10,5 @@
 
 - [The Unreasonable Effectiveness Of Plain Text](https://www.youtube.com/watch?v=WgV6M1LyfNY)
 	- Topics: Linux, Markdown, Git, Github
+- [Use Plain Text Files to Capture Your Thoughts - Cal Newport](https://www.youtube.com/watch?v=Sswu2go91Es)
+	- Working Memory aka Collection bin. Geht in die Richtung von Jeff Huang
