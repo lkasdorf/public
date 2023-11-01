@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 TODO.md",
+                "file": "NOTES/Linux.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": true
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 TODO.md",
+                "file": "NOTES/Linux.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 TODO.md",
+                "file": "NOTES/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 TODO.md"
+                "file": "NOTES/Linux.md"
               }
             }
           },
@@ -159,8 +160,8 @@
   },
   "active": "61f3e84a2ef63297",
   "lastOpenFiles": [
-    "NOTES/Links for S4 Utilities.md",
     "00 TODO.md",
+    "NOTES/Links for S4 Utilities.md",
     "NOTES/RKU NG Sperrbeleg anlegen.md",
     "NOTES/Einrichtung Sperrkostenabrechnung.md",
     "NOTES/Plan Text Notes Information.md",
