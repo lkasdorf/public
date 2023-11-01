@@ -192,14 +192,8 @@ Notes: All Saints Day
 	 - Habe ich ins Konzeptdokument aufgenommen
 - *Docmorris*: Korrektur Belegart D1
 	- Ich habe das Kennzeichen bei den Belegarten D1 und D2 auf den Systemen HRD, HRQ und HR1 manuell in der Tabelle gesetzt, um Transporte zu vermeiden, da heute auch Feiertag in Deutschland ist (teilweise)
+	- Contact Docmorris: Linh Nguyen
  - *RKU*: Mein S-User läuft im Dezember ab und ich habe das der Basis gemeldet
-
----
-
-- *Kaffon*: TRA Uploads und Buchungen
-	- Rechnung Kamerun Waldemar prüfen
-	- Gehalt Ibrahim Buchung
-	- NSSF Buchung
 
 # 2023-11-02 thursday
 
@@ -214,3 +208,7 @@ Notes: All Saints Day
 - *RKU*: Faktura Sperrkostenabrechnung. Wir müssen mit Deniz oder Birgit sprechen (siehe Termin 2023-11-01)
 - *Kaffon*: Planung Boardmeetings
 - *Kaffon*: Termin mit Richard vereinbaren
+- *Kaffon*: TRA Uploads und Buchungen
+	- Rechnung Kamerun Waldemar prüfen
+	- Gehalt Ibrahim Buchung
+	- NSSF Buchung
