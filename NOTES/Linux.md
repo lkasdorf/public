@@ -47,6 +47,10 @@ sudo apt install fonts-crosextra-carlito fonts-crosextra-caladea
 [TOP 5 COMMANDS TO DISPLAY HARDWARE INFORMATION ON LINUX](https://freelinuxtutorials.com/top-5-commands-to-display-hardware-information-on-linux/)
 Alle Informationen: inxi -Fxz
 
+## Piping in Linux
+
+[geeksforgeeks: Piping in Linux](https://www.geeksforgeeks.org/piping-in-unix-or-linux/)
+
 # Network
 
 ## Wireshark
