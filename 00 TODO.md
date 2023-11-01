@@ -177,6 +177,7 @@
 	- Ich habe das Kennzeichen "Gesellschaftsübergreifend" in der T003 für die Belegart D1 gesetzt (direkt auf der Datenbank)
 		- Dadurch kann man bei der Buchung mit F-02 unter "weitere Daten" die Partnergesellschaft eingeben
 	- Das muss noch in der HRD geändert werden und transportiert werden (morgen)
+	- Die Validierung wurde durch [DDO-829 geändert](https://docmorrisgroup.atlassian.net/browse/DDO-829)
 
 
 # 2023-11-01 wednesday
@@ -190,8 +191,6 @@ Notes: All Saints Day
 ---
 
  - *RKU*: DMEE und Zahlungsträger dokumentieren
- - *Kaffon*: Boardmeetings: Liste erstellen
-	 - Wann muss das erste Jährliche Boardmeeting stattfinden?
 - *Docmorris*: Korrektur Belegart D1
 - *Kaffon*: TRA Uploads und Buchungen
 	- Rechnung Kamerun Waldemar prüfen
