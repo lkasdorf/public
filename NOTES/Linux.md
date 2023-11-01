@@ -69,3 +69,19 @@ Was ist dumpcap?
 - [Install and use Packer](https://linovox.com/install-and-use-packer-in-neovim/)
  - [Vim Cheat Sheet](https://vim.rtorr.com/)
  - [Vim cheatsheet - devhints](https://devhints.io/vim)
+
+# PDF Tools
+
+## Viewer
+
+- [Okular](https://okular.kde.org)
+	- Brauchbarerer Viewer mit Annotationen und Markierungsfunktionen
+ - Document Viewer (Linux Mint)
+
+## Editors
+
+- PDF24 Tools
+- PDF Arranger
+- PDF Chain
+- PDF Mixtool
+- Libreoffice Draw
