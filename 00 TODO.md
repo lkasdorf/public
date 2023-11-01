@@ -211,4 +211,6 @@ Notes: All Saints Day
 		 - [DDO-1097](https://docmorrisgroup.atlassian.net/browse/DDO-1097) - 5 SP
 		 - [DDO-688](https://docmorrisgroup.atlassian.net/browse/DDO-688) - 5 SP
 - *RKU*: Klaus wollte Schätzungen für den Aufwand (Rottweil)
+- *RKU*: Faktura Sperrkostenabrechnung. Wir müssen mit Deniz oder Birgit sprechen (siehe Termin 2023-11-01)
 - *Kaffon*: Planung Boardmeetings
+- *Kaffon*: Termin mit Richard vereinbaren

@@ -1,6 +1,6 @@
 #Linux
 
-# Terminal Tools
+# useful Terminal Tools
 
  - ranger
      - File management
@@ -8,12 +8,12 @@
      - use trash in terminal (rm removes forever)
  - pfetch
      - like neofetch
- - htop
-     - terminal system monitor
+ - System monitoring
+	 - htop
+	 - btop
+	 - glances
  - ncdu
      - storage analyzer (nice!)
- - speedread
- - glances
  - inxi -Fxz
 	 - System information
 
@@ -27,15 +27,22 @@
 - [Linux Full Guide - FOSSPOST](https://fosspost.org/linux-full-guide/)
 - [Twingate Linux](https://www.twingate.com/docs/linux)
 
-# VIM
- - [Vim Cheat Sheet](https://vim.rtorr.com/)
- - [Vim cheatsheet - devhints](https://devhints.io/vim)
+# Desktop Umgebung
 
-# Terminal
 - [# From Noob To Power User With Linux Mint Cinnamon](https://www.youtube.com/watch?v=TKX29fJ8U2Y)
 	- Hier habe ich rofi kennengelernt. Das ist mal richtig cool. Poweruser Style.
 
-# Display Hardware Information
+## Fonts Linux
+
+https://averagelinuxuser.com/microsoft-fonts-linux/
+
+sudo apt install ttf-mscorefonts-installer
+sudo apt install fonts-crosextra-carlito fonts-crosextra-caladea
+
+
+# Terminal misc
+
+## Display Hardware Information
 
 [TOP 5 COMMANDS TO DISPLAY HARDWARE INFORMATION ON LINUX](https://freelinuxtutorials.com/top-5-commands-to-display-hardware-information-on-linux/)
 Alle Informationen: inxi -Fxz
@@ -53,15 +60,12 @@ sudo chmod +x /usr/bin/dumpcap
 ```
 Was ist dumpcap?
 
-# Neovim
+# Editing
+
+## Neovim
 
 - [Install Nvim Tree](https://linovox.com/install-and-use-nvim-tree-in-neovim/)
 - [Install Which Key](https://linovox.com/install-and-set-up-which-key-in-neovim-nvim/)
 - [Install and use Packer](https://linovox.com/install-and-use-packer-in-neovim/)
-
-# Fonts Linux
-
-https://averagelinuxuser.com/microsoft-fonts-linux/
-
-sudo apt install ttf-mscorefonts-installer
-sudo apt install fonts-crosextra-carlito fonts-crosextra-caladea
+ - [Vim Cheat Sheet](https://vim.rtorr.com/)
+ - [Vim cheatsheet - devhints](https://devhints.io/vim)
