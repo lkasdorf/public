@@ -202,13 +202,20 @@ Notes: All Saints Day
 - 12:30 *Docmorris* **Meeting**: Adyen und Amazon Abgleiche mit FI-CA
 	- Tennyson, Walter
 - *Docmorris*: Tasks im Sprint beginnen
-		 - [DDO-1097](https://docmorrisgroup.atlassian.net/browse/DDO-1097) - 5 SP
-		 - [DDO-688](https://docmorrisgroup.atlassian.net/browse/DDO-688) - 5 SP
+	- [DDO-1097](https://docmorrisgroup.atlassian.net/browse/DDO-1097) - 5 sp
+	- [DDO-688](https://docmorrisgroup.atlassian.net/browse/DDO-688) - 5 sp
 - *RKU*: Klaus wollte Schätzungen für den Aufwand (Rottweil)
 - *RKU*: Faktura Sperrkostenabrechnung. Wir müssen mit Deniz oder Birgit sprechen (siehe Termin 2023-11-01)
 - *Kaffon*: Planung Boardmeetings
 - *Kaffon*: Termin mit Richard vereinbaren
+	- Irgendwann im November (2h in seinem Büro)
 - *Kaffon*: TRA Uploads und Buchungen
 	- Rechnung Kamerun Waldemar prüfen
 	- Gehalt Ibrahim Buchung
-	- NSSF Buchung
+	- PAYE
+	- Directors Fee
+	- VAT
+	- SDL
+	- Bankgebühren
+
+---
