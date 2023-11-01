@@ -183,10 +183,17 @@
 
 Notes: All Saints Day
 
+- 11:00 *RKU*: **Meeting**: Abstimmung ENWR - Vorbereitung Workshop
+	- Abrechnung Sperrkosten mit Karl korrigieren
+	- Wir haben es geschaftt, abrechenbare Positionen anzulegen (siehe [RKU NG Sperrbeleg anlegen](NOTES/RKU%20NG%20Sperrbeleg%20anlegen.md))
+
+---
+
  - *RKU*: DMEE und Zahlungsträger dokumentieren
  - *Kaffon*: Boardmeetings: Liste erstellen
 	 - Wann muss das erste Jährliche Boardmeeting stattfinden?
-- 11:00 *RKU*: **Meeting**: Abstimmung ENWR - Vorbereitung Workshop
-	- Abrechnung Sperrkosten mit Karl korrigieren
 - *Docmorris*: Korrektur Belegart D1
 - *Kaffon*: TRA Uploads und Buchungen
+	- Rechnung Kamerun Waldemar prüfen
+	- Gehalt Ibrahim Buchung
+	- NSSF Buchung
