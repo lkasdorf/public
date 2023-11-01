@@ -188,12 +188,27 @@ Notes: All Saints Day
 	- Abrechnung Sperrkosten mit Karl korrigieren
 	- Wir haben es geschaftt, abrechenbare Positionen anzulegen (siehe [RKU NG Sperrbeleg anlegen](NOTES/RKU%20NG%20Sperrbeleg%20anlegen.md))
 	- Es gibt noch Probleme mit der Faktura (Sparte und Serviceanbieter sind nicht gefüllt)
+ - *RKU*: DMEE und Zahlungsträger dokumentieren
+	 - Habe ich ins Konzeptdokument aufgenommen
+- *Docmorris*: Korrektur Belegart D1
+	- Ich habe das Kennzeichen bei den Belegarten D1 und D2 auf den Systemen HRD, HRQ und HR1 manuell in der Tabelle gesetzt, um Transporte zu vermeiden, da heute auch Feiertag in Deutschland ist (teilweise)
+ - *RKU*: Mein S-User läuft im Dezember ab und ich habe das der Basis gemeldet
 
 ---
 
- - *RKU*: DMEE und Zahlungsträger dokumentieren
-- *Docmorris*: Korrektur Belegart D1
 - *Kaffon*: TRA Uploads und Buchungen
 	- Rechnung Kamerun Waldemar prüfen
 	- Gehalt Ibrahim Buchung
 	- NSSF Buchung
+
+# 2023-11-02 thursday
+
+- 10:05 *RKU* **Daily**: NextGen LIEF
+- 11:45 *Docmorris* **Daily**: O2C-Team
+- 12:30 *Docmorris* **Meeting**: Adyen und Amazon Abgleiche mit FI-CA
+	- Tennyson, Walter
+- *Docmorris*: Tasks im Sprint beginnen
+		 - [DDO-1097](https://docmorrisgroup.atlassian.net/browse/DDO-1097) - 5 SP
+		 - [DDO-688](https://docmorrisgroup.atlassian.net/browse/DDO-688) - 5 SP
+- *RKU*: Klaus wollte Schätzungen für den Aufwand (Rottweil)
+- *Kaffon*: Planung Boardmeetings
