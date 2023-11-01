@@ -187,6 +187,7 @@ Notes: All Saints Day
 - 11:00 *RKU*: **Meeting**: Abstimmung ENWR - Vorbereitung Workshop
 	- Abrechnung Sperrkosten mit Karl korrigieren
 	- Wir haben es geschaftt, abrechenbare Positionen anzulegen (siehe [RKU NG Sperrbeleg anlegen](NOTES/RKU%20NG%20Sperrbeleg%20anlegen.md))
+	- Es gibt noch Probleme mit der Faktura (Sparte und Serviceanbieter sind nicht gefüllt)
 
 ---
 
