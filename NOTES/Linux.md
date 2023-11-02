@@ -96,3 +96,7 @@ Was ist dumpcap?
 # Apps
 
  - [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher/wiki/Install-on-Ubuntu-or-Debian#use-the-ppas)
+
+# Power Management
+
+- [TLP](https://linrunner.de/tlp/introduction.html)
