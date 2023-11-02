@@ -197,10 +197,6 @@ Notes: All Saints Day
 
 # 2023-11-02 thursday
 
-- 12:30 *Docmorris* **Meeting**: Adyen und Amazon Abgleiche mit FI-CA
-	- Tennyson, Walter
-	- Klarna
-		- 
 - *Docmorris*: Tasks im Sprint beginnen
 	- [DDO-1097](https://docmorrisgroup.atlassian.net/browse/DDO-1097) - 5 sp
 	- [DDO-688](https://docmorrisgroup.atlassian.net/browse/DDO-688) - 5 sp
@@ -225,3 +221,9 @@ Notes: All Saints Day
 - 11:45 *Docmorris* **Daily**: O2C-Team
 	- Themen: Klarna Go-Live heute abend (technisch), Aktivierung am Freitag
 	- Hier gab es ein Problem, dass Klarna zwischenzeitlich kurz aus Versehen live war und wir jetzt falsche Buchungen im System haben
+- 12:30 *Docmorris* **Meeting**: Adyen und Amazon Abgleiche mit FI-CA
+	- Tennyson, Walter
+	- Klarna
+		- Dadurch, dass Klarna kurz produktiv war, wurden Belege gebucht, aber mit dem falschen Teilvorgang und damit auf ein falsches Transferkonto (Die Tabelle /CHCNL/FKK_TVORG war auf der HR1 noch nicht für Klarna produktiv)
+		- Belege müssen storniert und neu gebucht werden
+			- Entweder LSMW oder die message neu verarbeiten (Rückmeldung Jörg abwarten)
