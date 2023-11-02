@@ -92,3 +92,7 @@ Was ist dumpcap?
 - PDF Chain
 - PDF Mixtool
 - Libreoffice Draw
+
+# Apps
+
+ - [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher/wiki/Install-on-Ubuntu-or-Debian#use-the-ppas)
