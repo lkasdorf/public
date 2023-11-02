@@ -197,9 +197,10 @@ Notes: All Saints Day
 
 # 2023-11-02 thursday
 
-- 11:45 *Docmorris* **Daily**: O2C-Team
 - 12:30 *Docmorris* **Meeting**: Adyen und Amazon Abgleiche mit FI-CA
 	- Tennyson, Walter
+	- Klarna
+		- 
 - *Docmorris*: Tasks im Sprint beginnen
 	- [DDO-1097](https://docmorrisgroup.atlassian.net/browse/DDO-1097) - 5 sp
 	- [DDO-688](https://docmorrisgroup.atlassian.net/browse/DDO-688) - 5 sp
@@ -221,3 +222,6 @@ Notes: All Saints Day
 
 - 10:05 *RKU* **Daily**: NextGen LIEF
 	- habe ich abgesagt
+- 11:45 *Docmorris* **Daily**: O2C-Team
+	- Themen: Klarna Go-Live heute abend (technisch), Aktivierung am Freitag
+	- Hier gab es ein Problem, dass Klarna zwischenzeitlich kurz aus Versehen live war und wir jetzt falsche Buchungen im System haben
