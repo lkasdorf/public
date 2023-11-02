@@ -197,25 +197,6 @@ Notes: All Saints Day
 
 # 2023-11-02 thursday
 
-- *Docmorris*: Tasks im Sprint beginnen
-	- [DDO-1097](https://docmorrisgroup.atlassian.net/browse/DDO-1097) - 5 sp
-	- [DDO-688](https://docmorrisgroup.atlassian.net/browse/DDO-688) - 5 sp
-- *RKU*: Klaus wollte Schätzungen für den Aufwand (Rottweil)
-- *Kaffon*: Planung Boardmeetings
-- *Kaffon*: Termin mit Richard vereinbaren
-	- Irgendwann im November (2h in seinem Büro)
-- *Kaffon*: TRA Uploads und Buchungen
-	- Rechnung Kamerun Waldemar prüfen
-	- Gehalt Ibrahim Buchung
-	- PAYE
-	- Directors Fee
-	- VAT
-	- SDL
-	- Bankgebühren
-- 16:00 *RKU* **Meeting**: Analyse CHK_TRIG_DATA_FOR_DELVNOT / Lieferscheinversand Q1D 105
-
----
-
 - 10:05 *RKU* **Daily**: NextGen LIEF
 	- habe ich abgesagt
 - 11:45 *Docmorris* **Daily**: O2C-Team
@@ -233,3 +214,23 @@ Notes: All Saints Day
 - *RKU*: Faktura Sperrkostenabrechnung. Wir müssen mit Deniz oder Birgit sprechen (siehe Termin 2023-11-01)
 	- Karl hat einen Hinweis gefunden [3379243 - Billable items are created without division for GPKE Additional Service Billing](https://me.sap.com/notes/3379243/E)
 	- Ling Ling hat ihn eingespielt, muss jetzt nochmal getestet werden
+- 16:00 *RKU* **Meeting**: Analyse CHK_TRIG_DATA_FOR_DELVNOT / Lieferscheinversand Q1D 105
+	- Mohamed muss das nochmal debuggen
+	- Ich denke, es liegt an irgendwelchen Belegzeilenarten
+- *Kaffon*: TRA Uploads und Buchungen
+	- Rechnung Kamerun Waldemar prüfen
+	- Gehalt Ibrahim Buchung
+	- PAYE
+	- Directors Fee
+	- VAT
+	- SDL
+	- Bankgebühren
+
+# 2023-11-03 friday
+
+- *Docmorris*: Tasks im Sprint beginnen
+	- [DDO-1097](https://docmorrisgroup.atlassian.net/browse/DDO-1097) - 5 sp
+	- [DDO-688](https://docmorrisgroup.atlassian.net/browse/DDO-688) - 5 sp
+- *RKU*: Klaus wollte Schätzungen für den Aufwand (Rottweil)
+- *Kaffon*: Termin mit Richard vereinbaren
+	- Irgendwann im November (2h in seinem Büro)
