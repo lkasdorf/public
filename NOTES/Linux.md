@@ -17,7 +17,7 @@
  - inxi -Fxz
 	 - System information
 
-# Guides
+# Guides and Tutorials
 
 - [Creating a Searchable Desktop Icon for Appimage Software on Linux](https://medium.com/@itsmrcrabss/creating-a-searchable-desktop-icon-for-appimage-software-on-linux-82dc9f62ca51)
 	- [Archive](https://web.archive.org/web/20231024140700/https://medium.com/@itsmrcrabss/creating-a-searchable-desktop-icon-for-appimage-software-on-linux-82dc9f62ca51)
@@ -26,6 +26,9 @@
     - [Archiv](https://web.archive.org/web/20230519220215/https://davejansen.com/logitech-streamcam-on-linux/)
 - [Linux Full Guide - FOSSPOST](https://fosspost.org/linux-full-guide/)
 - [Twingate Linux](https://www.twingate.com/docs/linux)
+- [Learn Linux TV Tutorials](https://www.youtube.com/playlist?list=PLT98CRl2KxKHdOpQ-uI2QuNcQ0aEAe5bN)
+	- Ausführliche Tutorials, verständlich erklärt
+	- Hier gibts auch eine Reihe zu Vim
 
 # Desktop Umgebung
 

@@ -197,7 +197,6 @@ Notes: All Saints Day
 
 # 2023-11-02 thursday
 
-- 10:05 *RKU* **Daily**: NextGen LIEF
 - 11:45 *Docmorris* **Daily**: O2C-Team
 - 12:30 *Docmorris* **Meeting**: Adyen und Amazon Abgleiche mit FI-CA
 	- Tennyson, Walter
@@ -219,3 +218,6 @@ Notes: All Saints Day
 	- Bankgebühren
 
 ---
+
+- 10:05 *RKU* **Daily**: NextGen LIEF
+	- habe ich abgesagt
