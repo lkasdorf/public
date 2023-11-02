@@ -201,7 +201,6 @@ Notes: All Saints Day
 	- [DDO-1097](https://docmorrisgroup.atlassian.net/browse/DDO-1097) - 5 sp
 	- [DDO-688](https://docmorrisgroup.atlassian.net/browse/DDO-688) - 5 sp
 - *RKU*: Klaus wollte Schätzungen für den Aufwand (Rottweil)
-- *RKU*: Faktura Sperrkostenabrechnung. Wir müssen mit Deniz oder Birgit sprechen (siehe Termin 2023-11-01)
 - *Kaffon*: Planung Boardmeetings
 - *Kaffon*: Termin mit Richard vereinbaren
 	- Irgendwann im November (2h in seinem Büro)
@@ -226,6 +225,11 @@ Notes: All Saints Day
 	- Tennyson, Walter
 	- Klarna
 		- Dadurch, dass Klarna kurz produktiv war, wurden Belege gebucht, aber mit dem falschen Teilvorgang und damit auf ein falsches Transferkonto (Die Tabelle /CHCNL/FKK_TVORG war auf der HR1 noch nicht für Klarna produktiv)
+			- Walter hat den Fehler gefunden und wird ihn mit [Correction of /CHCNL/FKK_GET_TVORG](https://docmorrisgroup.atlassian.net/browse/DDO-1166) beheben
 		- Belege müssen storniert und neu gebucht werden
 			- Entweder LSMW oder die message neu verarbeiten (Rückmeldung Jörg abwarten)
+			- Jörg: Messages neu starten: Report /CHCNL/CP_MSG_RECOVERY
 	- Transaktionen von Tennyson -> [Docmorris Transactions](NOTES/Docmorris%20Transactions.md)
+- *RKU*: Faktura Sperrkostenabrechnung. Wir müssen mit Deniz oder Birgit sprechen (siehe Termin 2023-11-01)
+	- Karl hat einen Hinweis gefunden [3379243 - Billable items are created without division for GPKE Additional Service Billing](https://me.sap.com/notes/3379243/E)
+	- Ling Ling hat ihn eingespielt, muss jetzt nochmal getestet werden
