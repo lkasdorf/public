@@ -213,6 +213,7 @@ Notes: All Saints Day
 	- VAT
 	- SDL
 	- Bankgebühren
+- 16:00 *RKU* **Meeting**: Analyse CHK_TRIG_DATA_FOR_DELVNOT / Lieferscheinversand Q1D 105
 
 ---
 
