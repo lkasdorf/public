@@ -228,12 +228,6 @@ Notes: All Saints Day
 
 # 2023-11-03 friday
 
-- *Docmorris*: Tasks im Sprint beginnen
-	- [DDO-1097](https://docmorrisgroup.atlassian.net/browse/DDO-1097) - 5 sp
-	- [DDO-688](https://docmorrisgroup.atlassian.net/browse/DDO-688) - 5 sp
-- *RKU*: Klaus wollte Schätzungen für den Aufwand (Rottweil)
-- *Kaffon*: Termin mit Richard vereinbaren
-	- Irgendwann im November (2h in seinem Büro)
 - *RKU*: Gespräch mit Ina
 	- Workshops
 		- Messstellenwesen: 06.11. - 07.11.2023
@@ -244,3 +238,12 @@ Notes: All Saints Day
 	- Thema Leon: "Geschäftsführerbeschluss" notwendig
 		- 3 Tage + Option auf Erhöhung
 		- DSGVO
+
+---
+
+- *Docmorris*: Tasks im Sprint beginnen
+	- [DDO-1097](https://docmorrisgroup.atlassian.net/browse/DDO-1097) - 5 sp
+	- [DDO-688](https://docmorrisgroup.atlassian.net/browse/DDO-688) - 5 sp
+- *RKU*: Klaus wollte Schätzungen für den Aufwand (Rottweil)
+- *Kaffon*: Termin mit Richard vereinbaren
+	- Irgendwann im November (2h in seinem Büro)

@@ -100,3 +100,8 @@ Was ist dumpcap?
 # Power Management
 
 - [TLP](https://linrunner.de/tlp/introduction.html)
+
+# Screenshot Tools
+
+ - [Shutter](https://shutter-project.org/)
+ - [Flameshot](https://flameshot.org/)

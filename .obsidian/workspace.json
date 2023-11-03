@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1e4c87e02d3dd6e7",
+        "id": "f9f20b6264872ea8",
         "type": "tabs",
         "children": [
           {
-            "id": "61f3e84a2ef63297",
+            "id": "34461176a543c163",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -138,7 +138,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -157,12 +158,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "61f3e84a2ef63297",
+  "active": "34461176a543c163",
   "lastOpenFiles": [
+    "00 TODO.md",
+    "NOTES/Linux.md",
     "NOTES/Docmorris Transactions.md",
     "NOTES/Links for S4 Utilities.md",
-    "NOTES/Linux.md",
-    "00 TODO.md",
     "NOTES/RKU NG Sperrbeleg anlegen.md",
     "NOTES/Einrichtung Sperrkostenabrechnung.md",
     "NOTES/My Domains.md",
