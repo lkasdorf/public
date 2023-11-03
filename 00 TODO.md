@@ -209,7 +209,7 @@ Notes: All Saints Day
 			- Walter hat den Fehler gefunden und wird ihn mit [Correction of /CHCNL/FKK_GET_TVORG](https://docmorrisgroup.atlassian.net/browse/DDO-1166) beheben
 		- Belege müssen storniert und neu gebucht werden
 			- Entweder LSMW oder die message neu verarbeiten (Rückmeldung Jörg abwarten)
-			- Jörg: Messages neu starten: Report /CHCNL/CP_MSG_RECOVERY
+			- Jörg: Messages neu starten: Report /CHCNL/CP_MSG_RECOVERY (siehe [Docmorris Transactions](NOTES/Docmorris%20Transactions.md))
 	- Transaktionen von Tennyson -> [Docmorris Transactions](NOTES/Docmorris%20Transactions.md)
 - *RKU*: Faktura Sperrkostenabrechnung. Wir müssen mit Deniz oder Birgit sprechen (siehe Termin 2023-11-01)
 	- Karl hat einen Hinweis gefunden [3379243 - Billable items are created without division for GPKE Additional Service Billing](https://me.sap.com/notes/3379243/E)
@@ -239,8 +239,10 @@ Notes: All Saints Day
 		- 3 Tage + Option auf Erhöhung
 		- DSGVO
 
----
+# 2023-11-06 monday
 
+- 12:30 *DM* **Meeting**: Report: Adyen und Amazon Abgleich mit FI-CA
+	- Walter und Tennyson. Die Reports von Walter müssen schnellstmöglich fertig werden.
 - *Docmorris*: Tasks im Sprint beginnen
 	- [DDO-1097](https://docmorrisgroup.atlassian.net/browse/DDO-1097) - 5 sp
 	- [DDO-688](https://docmorrisgroup.atlassian.net/browse/DDO-688) - 5 sp
