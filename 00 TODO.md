@@ -234,3 +234,13 @@ Notes: All Saints Day
 - *RKU*: Klaus wollte Schätzungen für den Aufwand (Rottweil)
 - *Kaffon*: Termin mit Richard vereinbaren
 	- Irgendwann im November (2h in seinem Büro)
+- *RKU*: Gespräch mit Ina
+	- Workshops
+		- Messstellenwesen: 06.11. - 07.11.2023
+		- EDM: 08.11.2023
+		- Druckmanagement: 09.11.2023
+		- Geschäftsprozesse: 15.11.2023
+		- Vertriebsprozesse: 17.11.2023
+	- Thema Leon: "Geschäftsführerbeschluss" notwendig
+		- 3 Tage + Option auf Erhöhung
+		- DSGVO
