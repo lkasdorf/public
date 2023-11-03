@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTES/Linux.md",
-                "mode": "preview",
+                "file": "00 TODO.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTES/Linux.md",
+                "file": "00 TODO.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOTES/Linux.md",
+                "file": "00 TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTES/Linux.md"
+                "file": "00 TODO.md"
               }
             }
           },
@@ -138,8 +138,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,12 +159,12 @@
   },
   "active": "61f3e84a2ef63297",
   "lastOpenFiles": [
-    "00 TODO.md",
     "NOTES/Docmorris Transactions.md",
+    "NOTES/Links for S4 Utilities.md",
     "NOTES/Linux.md",
+    "00 TODO.md",
     "NOTES/RKU NG Sperrbeleg anlegen.md",
     "NOTES/Einrichtung Sperrkostenabrechnung.md",
-    "NOTES/Links for S4 Utilities.md",
     "NOTES/My Domains.md",
     "NOTES/Plan Text Notes Information.md",
     "NOTES/Tanzania.md",
