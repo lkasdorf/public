@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 TODO.md",
-                "mode": "source",
+                "file": "NOTES/Linux.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 TODO.md",
+                "file": "NOTES/Linux.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 TODO.md",
+                "file": "NOTES/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 TODO.md"
+                "file": "NOTES/Linux.md"
               }
             }
           },
@@ -160,9 +160,9 @@
   },
   "active": "34461176a543c163",
   "lastOpenFiles": [
+    "00 TODO.md",
     "NOTES/Docmorris Transactions.md",
     "media/DM_restart_Message_report.png",
-    "00 TODO.md",
     "NOTES/Linux.md",
     "NOTES/Links for S4 Utilities.md",
     "NOTES/RKU NG Sperrbeleg anlegen.md",

@@ -105,3 +105,55 @@ Was ist dumpcap?
 
  - [Shutter](https://shutter-project.org/)
  - [Flameshot](https://flameshot.org/)
+
+# TAR and GZIP command
+
+[How to Use Tar on Linux | Command Line Tips from Linode's Top Docs](https://www.youtube.com/watch?v=bnQLpaBkBK8)
+
+Combine multiple files into one archive file.
+
+```
+tar -cf etc_backup.tar etc
+```
+
+ - c -> create
+ - f --> provide filename
+ - etc_backup.tar --> TAR File to be created
+ - etc --> Directory to put in that TAR File
+
+See, whats in a tar file:
+```
+tar -tf testtar.tar | wc -l
+tar -tvf testtar.tar
+```
+
+ - t --> list files
+ - wc --> word count
+ - -l --> count lines for the wc command
+ - v --> verbose mode (list the content of a tar as directory listing)
+
+Extract files from tar
+
+```
+tar -xf testttar.tar
+tar -xvf testttar.tar
+```
+
+- x --> extract
+
+Compress files with GZIP
+
+```
+gzip testtar.tar
+gunzip testtar.tar.gz
+```
+
+Combine TAR and GZIP
+
+```
+tar -czf Downloads_backup.tar.gz Downloads_Backup
+```
+
+- z --> compress tar file using gzip command
+
+Extraction are the same commands using tar command.
