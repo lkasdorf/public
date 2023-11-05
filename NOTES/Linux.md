@@ -164,3 +164,41 @@ tar -czf Downloads_backup.tar.gz Downloads_Backup
 - z --> compress tar file using gzip command
 
 Extraction are the same commands using tar command.
+
+# Searching in the Terminal
+
+## find
+
+Looks everywhere.
+
+```
+find . -type f -name bash
+```
+
+![](../media/terminal_find.png)
+
+```
+find / -user username -perm -4000 -print 2>/dev/null
+find / -perm -u=s -type f 2>/dev/null
+find / -type f -user root -perm -4000 -exec ls -ldb {} \\; 2>/dev/null
+```
+
+## which
+
+Finds locations of commands.
+
+```
+which python3
+```
+
+![](../media/terminal_which.png)
+
+## locate
+
+Works with a database (updates every 24 h?)
+
+```
+locate .bash
+```
+
+![](../media/terminal_locate.png)
