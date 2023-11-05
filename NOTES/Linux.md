@@ -202,3 +202,27 @@ locate .bash
 ```
 
 ![](../media/terminal_locate.png)
+
+# Reading Files
+
+- cat
+	- shows all file content, but you have to scroll up
+- more
+	- shows a single page, scroll page by page (arrow keys)
+- less
+	- does more than more
+	- shows a single page, scroll line by line
+		- arrow keys to scroll
+		- f --> forward by page
+		- b --> back py page
+		- /search - searches and highlights forward
+		- ?search - searches and highlights backward (like vim?)
+- head
+	- shows the first ten lines of a file
+	- number pf lines is adjustable
+	- can show multiple files (``` head file01 file02 file03 ```)
+- tail
+	- shows the last ten lines
+	- number of lines is adjustable
+
+Combine head and tail: ``` head -n 30 long01 | tail ```
