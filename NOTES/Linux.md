@@ -16,6 +16,11 @@
      - storage analyzer (nice!)
  - inxi -Fxz
 	 - System information
+- exa
+	- Replacement for ls (edit ~/.bashrc)
+	- Has a nice tree view (``` exa --tree ```)
+- bat
+	- cat clone with syntax highlighting and git integration
 
 # Guides and Tutorials
 
