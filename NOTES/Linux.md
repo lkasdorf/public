@@ -21,6 +21,8 @@
 	- Has a nice tree view (``` exa --tree ```)
 - bat
 	- cat clone with syntax highlighting and git integration
+- fzf
+	- Search Tools
 
 # Guides and Tutorials
 
