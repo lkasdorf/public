@@ -252,7 +252,7 @@ Notes: All Saints Day
 	- Walter und Tennyson. Die Reports von Walter müssen schnellstmöglich fertig werden.
 	- Walter war nicht da (Internetprobleme), Termin auf Dienstag verschoben
 
----
+# 2023-11-07 tuesday
 
 - *Docmorris*: Tasks im Sprint beginnen
 	- [DDO-1097](https://docmorrisgroup.atlassian.net/browse/DDO-1097) - 5 sp
@@ -260,3 +260,5 @@ Notes: All Saints Day
 - *RKU*: Klaus wollte Schätzungen für den Aufwand (Rottweil)
 - *Kaffon*: Termin mit Richard vereinbaren
 	- Irgendwann im November (2h in seinem Büro)
+ - 12:30 *DM* **Meeting**: Report: Adyen und Amazon Abgleich mit FI-CA 
+ - 13:00 *RKU* **Meeting**: Workshop Vorbereitung FI-CA/MAKO ENRW
