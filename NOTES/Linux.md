@@ -226,3 +226,7 @@ locate .bash
 	- number of lines is adjustable
 
 Combine head and tail: ``` head -n 30 long01 | tail ```
+
+# VI Mode in Shell
+
+[VI Mode in Shell](https://opensource.com/article/17/3/fun-vi-mode-your-shell)
