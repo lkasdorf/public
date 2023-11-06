@@ -84,6 +84,14 @@ Was ist dumpcap?
  - [Vim Cheat Sheet](https://vim.rtorr.com/)
  - [Vim cheatsheet - devhints](https://devhints.io/vim)
 
+### Learnings
+
+> :x or ZZ only writes when something is modified but using :wq modifies no matter what.. yeah this 'll make a difference on timestamp ~~(imagine when working on git repo)~~
+
+> Instead of quitting and reopening, simply use `:e filename`. Or, if you want to open the file in readonly mode, then use `:view filename`. After that you have 2 buffers open, but you will only see one of them. That's when you need to learn how to navigate between buffers. You can use the `:ls` command to get a list of buffers and then you can select a buffer with `:b number` or `:b partial-filename`. If you want to look at buffers side-by side, you can use `:split` or `:vsplit` and then you can use ctrl+w hjkl to navigate between the different splits on your screen. After that you probably want to use the `:b` command again to select a specific buffer for a split.
+
+Read more at `:h window`
+
 # PDF Tools
 
 ## Viewer
