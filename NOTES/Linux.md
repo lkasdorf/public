@@ -90,6 +90,11 @@ Was ist dumpcap?
 
 > Instead of quitting and reopening, simply use `:e filename`. Or, if you want to open the file in readonly mode, then use `:view filename`. After that you have 2 buffers open, but you will only see one of them. That's when you need to learn how to navigate between buffers. You can use the `:ls` command to get a list of buffers and then you can select a buffer with `:b number` or `:b partial-filename`. If you want to look at buffers side-by side, you can use `:split` or `:vsplit` and then you can use ctrl+w hjkl to navigate between the different splits on your screen. After that you probably want to use the `:b` command again to select a specific buffer for a split.
 
+### Links
+
+ - [Learn to speak vim — verbs, nouns, and modifiers!](https://yanpritzker.com/learn-to-speak-vim-verbs-nouns-and-modifiers-d7bfed1f6b2d)
+ - [Learning Vim as a Language: Nouns](https://douglasrumbaugh.com/post/vim-as-language-noun/)
+
 Read more at `:h window`
 
 # PDF Tools
