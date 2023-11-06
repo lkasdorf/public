@@ -241,8 +241,19 @@ Notes: All Saints Day
 
 # 2023-11-06 monday
 
+
+ - *DM* **Meeting**: Docmorris zentrales Customizing (Jörg König)
+	 - [Adapt Order characteristics - Bestellart/Bestellzusatz](https://docmorrisgroup.atlassian.net/browse/DDO-783)
+	 - Zentrales Customizing der Bestellarten
+	 - Tabelle : /chcnl/ord_chars
+	 - Klasse: /CHCNL/CL_ORD_CHARACTERISTICS
+	 - DDO-997 - Viewcluster für kompliziertes Customizing
 - 12:30 *DM* **Meeting**: Report: Adyen und Amazon Abgleich mit FI-CA
 	- Walter und Tennyson. Die Reports von Walter müssen schnellstmöglich fertig werden.
+	- Walter war nicht da (Internetprobleme), Termin auf Dienstag verschoben
+
+---
+
 - *Docmorris*: Tasks im Sprint beginnen
 	- [DDO-1097](https://docmorrisgroup.atlassian.net/browse/DDO-1097) - 5 sp
 	- [DDO-688](https://docmorrisgroup.atlassian.net/browse/DDO-688) - 5 sp
