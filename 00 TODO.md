@@ -264,5 +264,8 @@ Notes: All Saints Day
 	 - Amazon Bericht Zahlungseingänge: /CHCNL/FKK_IN_AI
 	 - Tennyson: Externe Berater als Anlagevermögen
  - 13:00 *RKU* **Meeting**: Workshop Vorbereitung FI-CA/MAKO ENRW
+	 - Aufwände (Fehlerbehebung VNB) sollen auf Transformation gebucht werden
+	 - Wir brauchen Testfälle für Netznutzung
+	 - Karl: Abrechnen in die Zukunft
  - *DM*: [DDO-169](https://docmorrisgroup.atlassian.net/browse/DDO-169)
  - *DM* - Mieke Krijn: Text bei Bankbuchung
