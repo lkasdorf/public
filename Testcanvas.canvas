@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"7290e0d1a440b2ef","x":-380,"y":-700,"width":400,"height":400,"type":"file","file":"00 TODO.md"},
+		{"id":"fd2d1716ffdef470","x":240,"y":-600,"width":250,"height":60,"color":"3","type":"text","text":"dfsdfdfs"}
+	],
+	"edges":[
+		{"id":"34fc539840dd6f3d","fromNode":"fd2d1716ffdef470","fromSide":"left","toNode":"7290e0d1a440b2ef","toSide":"right"}
+	]
+}
