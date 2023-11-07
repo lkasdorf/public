@@ -262,3 +262,5 @@ Notes: All Saints Day
 	- Irgendwann im November (2h in seinem Büro)
  - 12:30 *DM* **Meeting**: Report: Adyen und Amazon Abgleich mit FI-CA 
  - 13:00 *RKU* **Meeting**: Workshop Vorbereitung FI-CA/MAKO ENRW
+ - *DM*: [DDO-169](https://docmorrisgroup.atlassian.net/browse/DDO-169)
+ - *DM* - Mieke Krijn: Text bei Bankbuchung
