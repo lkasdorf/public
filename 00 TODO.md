@@ -254,12 +254,6 @@ Notes: All Saints Day
 
 # 2023-11-07 tuesday
 
-- *Docmorris*: Tasks im Sprint beginnen
-	- [DDO-1097](https://docmorrisgroup.atlassian.net/browse/DDO-1097) - 5 sp
-	- [DDO-688](https://docmorrisgroup.atlassian.net/browse/DDO-688) - 5 sp
-- *RKU*: Klaus wollte Schätzungen für den Aufwand (Rottweil)
-- *Kaffon*: Termin mit Richard vereinbaren
-	- Irgendwann im November (2h in seinem Büro)
  - 12:30 *DM* **Meeting**: Report: Adyen und Amazon Abgleich mit FI-CA 
 	 - Amazon Bericht Zahlungseingänge: /CHCNL/FKK_IN_AI
 	 - Tennyson: Externe Berater als Anlagevermögen
@@ -267,5 +261,20 @@ Notes: All Saints Day
 	 - Aufwände (Fehlerbehebung VNB) sollen auf Transformation gebucht werden
 	 - Wir brauchen Testfälle für Netznutzung
 	 - Karl: Abrechnen in die Zukunft (Termin)
- - *DM*: [DDO-169](https://docmorrisgroup.atlassian.net/browse/DDO-169)
+
+# 2023-11-08 wednesday
+
+- *Docmorris*: Tasks im Sprint beginnen
+	- [DDO-1097](https://docmorrisgroup.atlassian.net/browse/DDO-1097) - 5 sp
+	- [DDO-688](https://docmorrisgroup.atlassian.net/browse/DDO-688) - 5 sp
+- *Kaffon*: Termin mit Richard vereinbaren
+	- Irgendwann im November (2h in seinem Büro)
+ - *RKU*: Abstimmung mit Karl
+ - *DM*: [DDO-169 - Automatische Buchungen Gehalt - SAP](https://docmorrisgroup.atlassian.net/browse/DDO-169)
  - *DM* - Mieke Krijn: Text bei Bankbuchung
+
+# 2023-11-09 thursday
+
+
+
+# 2023-11-10 friday
