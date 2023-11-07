@@ -266,6 +266,6 @@ Notes: All Saints Day
  - 13:00 *RKU* **Meeting**: Workshop Vorbereitung FI-CA/MAKO ENRW
 	 - Aufwände (Fehlerbehebung VNB) sollen auf Transformation gebucht werden
 	 - Wir brauchen Testfälle für Netznutzung
-	 - Karl: Abrechnen in die Zukunft
+	 - Karl: Abrechnen in die Zukunft (Termin)
  - *DM*: [DDO-169](https://docmorrisgroup.atlassian.net/browse/DDO-169)
  - *DM* - Mieke Krijn: Text bei Bankbuchung
