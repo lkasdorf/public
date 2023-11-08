@@ -266,10 +266,14 @@ Notes: All Saints Day
 
 - *Docmorris*: Tasks im Sprint beginnen
 	- [DDO-1097](https://docmorrisgroup.atlassian.net/browse/DDO-1097) - 5 sp
+		- Ordnungsbegriff einführen
+		- Hier mussten über das Customizing noch CI-Includes und Tabellenindizes angelegt werden
+		- [Ordnungsbegrif FI-CA](NOTES/Ordnungsbegrif%20FI-CA.md)
 	- [DDO-688](https://docmorrisgroup.atlassian.net/browse/DDO-688) - 5 sp
 - *Kaffon*: Termin mit Richard vereinbaren
 	- Irgendwann im November (2h in seinem Büro)
  - *RKU*: Abstimmung mit Karl
+	 - Seine Kollegin war dabei: Pauline Niewiadomski (?)
  - *DM*: [DDO-169 - Automatische Buchungen Gehalt - SAP](https://docmorrisgroup.atlassian.net/browse/DDO-169)
  - *DM* - Mieke Krijn: Text bei Bankbuchung
 
