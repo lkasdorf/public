@@ -2,7 +2,11 @@
 
 [Plan Text Notes Information](NOTES/Plan%20Text%20Notes%20Information.md)
 
-# 2023-10-23 monday
+# 2023
+
+## 10-2023
+
+### 2023-10-23 monday
 
 - *DM*: **Meeting**: Refinement DM
 	- Termin, um festzulegen, wie ein gutes Refinement aussieht
@@ -25,7 +29,7 @@
 - *DM*: [DDO-696](https://docmorrisgroup.atlassian.net/browse/DDO-696) --> Walter muss eine Aufgabe freigeben (Charm 4000001859, Transport HRDK937429)
 	- Transport von Kopien von Walter durchgeführt
 
-#  2023-10-24 tuesday
+### 2023-10-24 tuesday
 
 - *DM*: Confluence Seite für Suchmusterprobleme erstellen
 	- [Confluence Suchmuster](https://docmorrisgroup.atlassian.net/wiki/spaces/CIT/pages/3037135146/Optimierung+Suchmuster)
@@ -34,7 +38,7 @@
 - *all*: Abwesenheit 31.10.2023 eintragen
 	- Mail an RKU und DM geschickt.
 
-# 2023-10-25 wednesday
+### 2023-10-25 wednesday
 
 - *adesso*: Immer noch kein Adtime Projekt
 	- Tennyson fragt nochmal nach (11am: Ist jetzt behoben)
@@ -49,7 +53,7 @@
 - *DM*: Refinement [DDO-1097 Suchmuster IBAN](https://docmorrisgroup.atlassian.net/browse/DDO-1097)
 	- Kommende Woche mit Walter analysieren und in den Sprint mit reinnehmen
 
-# 2023-10-26 thursday
+### 2023-10-26 thursday
 
 **Important**: Focus on RKU
 
@@ -73,7 +77,7 @@
     - Wen ansprechen? Deniz Aydin
     - Deniz hat den Fuba übertragen, muss noch in den Events eingetragen werden (/RKU/FKK_SAMPLE_0570)
 
-# 2023-10-27 friday
+### 2023-10-27 friday
 
 - 10 am *DM*: **Meeting** Dewi - Customizing Altdatenübernahme
 	- Ich muss den Haken "Restwert" noch bei Z11 und Z12 auf HRQ und HRD ändern
@@ -102,7 +106,7 @@
 - *Kaffon*: NSSF Unterlagen vorbereiten
 	- Ich habe alles vorbereitet, es muss noch ausgedruckt werden. Der Rest befindet sich in dem neuen Aktenordner, den ich dann am Dienstag mitnehmen muss.
 
-# 2023-10-30 monday
+### 2023-10-30 monday
 
  - 11:45 *DM* Sprint planning
 	 - Meine Tasks
@@ -134,12 +138,12 @@
  - *Kaffon*: Unterlagen NSSF einsortieren
 	 - Unterlagen in Ordner eingeheftet
 
-## personal notes
+#### personal notes
 
  - Should I sync my notes with github? How secure is it?
 	 - I did it. Ich muss das noch dokumentieren.
 
-# 2023-10-31 tuesday
+### 2023-10-31 tuesday
 
 
   - 10:00 *Kaffon*: Inspection NSSF (HQ)
@@ -179,8 +183,9 @@
 	- Das muss noch in der HRD geändert werden und transportiert werden (morgen)
 	- Die Validierung wurde durch [DDO-829 geändert](https://docmorrisgroup.atlassian.net/browse/DDO-829)
 
+## 11-2023
 
-# 2023-11-01 wednesday
+### 2023-11-01 wednesday
 
 Notes: All Saints Day
 
@@ -195,7 +200,7 @@ Notes: All Saints Day
 	- Contact Docmorris: Linh Nguyen
  - *RKU*: Mein S-User läuft im Dezember ab und ich habe das der Basis gemeldet
 
-# 2023-11-02 thursday
+### 2023-11-02 thursday
 
 - 10:05 *RKU* **Daily**: NextGen LIEF
 	- habe ich abgesagt
@@ -226,7 +231,7 @@ Notes: All Saints Day
 	- SDL
 	- Bankgebühren
 
-# 2023-11-03 friday
+### 2023-11-03 friday
 
 - *RKU*: Gespräch mit Ina
 	- Workshops
@@ -239,7 +244,7 @@ Notes: All Saints Day
 		- 3 Tage + Option auf Erhöhung
 		- DSGVO
 
-# 2023-11-06 monday
+### 2023-11-06 monday
 
 
  - *DM* **Meeting**: Docmorris zentrales Customizing (Jörg König)
@@ -252,7 +257,7 @@ Notes: All Saints Day
 	- Walter und Tennyson. Die Reports von Walter müssen schnellstmöglich fertig werden.
 	- Walter war nicht da (Internetprobleme), Termin auf Dienstag verschoben
 
-# 2023-11-07 tuesday
+### 2023-11-07 tuesday
 
  - 12:30 *DM* **Meeting**: Report: Adyen und Amazon Abgleich mit FI-CA 
 	 - Amazon Bericht Zahlungseingänge: /CHCNL/FKK_IN_AI
@@ -262,23 +267,39 @@ Notes: All Saints Day
 	 - Wir brauchen Testfälle für Netznutzung
 	 - Karl: Abrechnen in die Zukunft (Termin)
 
-# 2023-11-08 wednesday
+### 2023-11-08 wednesday
 
+- *Kaffon*: Termin mit Richard vereinbaren
+	- Irgendwann im November (2h in seinem Büro)
+ - *DM*: [DDO-169 - Automatische Buchungen Gehalt - SAP](https://docmorrisgroup.atlassian.net/browse/DDO-169)
+ - *DM* - Mieke Krijn: Text bei Bankbuchung
+ - *DM* - Ticket Kontoauszug von Michell (Sebastian)
+
+---
+
+ - 17:00 *RKU* **Meeting**: Lösung für den elektronischen Kontoauszug von Arvato Systems
+	 - Von Avato: Mathias Krug
+	 - Lösung relevant, wenn es viele Überweiser gibt
+	 - Lösungsbeschreibung
+		 - Basis: Kontoauszug ist im System eingespielt
+		 - Es werden automatisiert Stapel über den Standard angelegt (Rückläufer, Zahlstapel etc.)
+		 - Zahlungsstapelsplit? (VNB und gMSB)
+		 - Umfangreiches Regelwerk
+ - *RKU*: Abstimmung mit Karl
+	 - Seine Kollegin war dabei: Pauline Niewiadomski (?)
 - *Docmorris*: Tasks im Sprint beginnen
 	- [DDO-1097](https://docmorrisgroup.atlassian.net/browse/DDO-1097) - 5 sp
 		- Ordnungsbegriff einführen
 		- Hier mussten über das Customizing noch CI-Includes und Tabellenindizes angelegt werden
 		- [Ordnungsbegrif FI-CA](NOTES/Ordnungsbegrif%20FI-CA.md)
+		- Mein Test war erfolgreich. Originalauftrag und Retoure haben jetzt die gleiche Auftragsnummer im Ordnungsbegriff
+		- FPMA muss noch getestet werden
 	- [DDO-688](https://docmorrisgroup.atlassian.net/browse/DDO-688) - 5 sp
-- *Kaffon*: Termin mit Richard vereinbaren
-	- Irgendwann im November (2h in seinem Büro)
- - *RKU*: Abstimmung mit Karl
-	 - Seine Kollegin war dabei: Pauline Niewiadomski (?)
- - *DM*: [DDO-169 - Automatische Buchungen Gehalt - SAP](https://docmorrisgroup.atlassian.net/browse/DDO-169)
- - *DM* - Mieke Krijn: Text bei Bankbuchung
+		- Donnerstag: Abstimmung mit Walter. Ich brauche hier Unterstützung
 
-# 2023-11-09 thursday
+
+### 2023-11-09 thursday
 
 
 
-# 2023-11-10 friday
+### 2023-11-10 friday
