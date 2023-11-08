@@ -274,6 +274,7 @@ Notes: All Saints Day
  - *DM*: [DDO-169 - Automatische Buchungen Gehalt - SAP](https://docmorrisgroup.atlassian.net/browse/DDO-169)
  - *DM* - Mieke Krijn: Text bei Bankbuchung
  - *DM* - Ticket Kontoauszug von Michell (Sebastian)
+ - *RKU*: Netznutzungsrechnungen auf Q1D Mandant 105 testen für den Workshop
 
 ---
 
@@ -285,6 +286,9 @@ Notes: All Saints Day
 		 - Es werden automatisiert Stapel über den Standard angelegt (Rückläufer, Zahlstapel etc.)
 		 - Zahlungsstapelsplit? (VNB und gMSB)
 		 - Umfangreiches Regelwerk
+		 - Noch nicht im S4-Umfeld getestet
+		 - Kontoauszüge können per RFC gelesen werden
+		 - Auswertungen möglich. Kontrollinstrument für Management. Ausgabe von offenen oder nicht zugeordneten Fällen.
  - *RKU*: Abstimmung mit Karl
 	 - Seine Kollegin war dabei: Pauline Niewiadomski (?)
 - *Docmorris*: Tasks im Sprint beginnen
