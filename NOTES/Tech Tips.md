@@ -1,5 +1,9 @@
 # Publish Markdown Files
 
+## From Reddit
+
+[How to publish Markdown Files as simple as possible?](https://www.reddit.com/r/Markdown/comments/17pb8fa/how_to_publish_markdown_files_as_simple_as/)
+
 - This open-source project would be perfect for your needs : [compiiile](https://github.com/AlbanCrepel/compiiile). It allows you to render all Markdown files from a folder and make a live website out of it with included navigation and search.
 - Markdown is about writing simple syntax and automatically get an Html file. How you publish an html file to the world is up to you. Me? I like to create a github gist with a markdown file and share a link; github renders it nicely without having to generate an html myself.
 - The most straightforward way of doing it is using something like [stackedit.io](https://stackedit.io/) or some vscode code extension to convert your markdown to html, then you can upload those to [neocities.org](https://neocities.org/) or other hosting service, if you have your files on a github repository, you can use it to to host them as a web :)

@@ -1,6 +1,6 @@
 # Links
 
-[Plan Text Notes Information](NOTES/Plan%20Text%20Notes%20Information.md)
+[Plain Text Notes Information](NOTES/Plain%20Text%20Notes%20Information.md)
 
 # 2023
 
