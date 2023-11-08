@@ -269,15 +269,6 @@ Notes: All Saints Day
 
 ### 2023-11-08 wednesday
 
-- *Kaffon*: Termin mit Richard vereinbaren
-	- Irgendwann im November (2h in seinem Büro)
- - *DM*: [DDO-169 - Automatische Buchungen Gehalt - SAP](https://docmorrisgroup.atlassian.net/browse/DDO-169)
- - *DM* - Mieke Krijn: Text bei Bankbuchung
- - *DM* - Ticket Kontoauszug von Michell (Sebastian)
- - *RKU*: Netznutzungsrechnungen auf Q1D Mandant 105 testen für den Workshop
-
----
-
  - 17:00 *RKU* **Meeting**: Lösung für den elektronischen Kontoauszug von Arvato Systems
 	 - Von Avato: Mathias Krug
 	 - Lösung relevant, wenn es viele Überweiser gibt
@@ -293,17 +284,26 @@ Notes: All Saints Day
 	 - Seine Kollegin war dabei: Pauline Niewiadomski (?)
 - *Docmorris*: Tasks im Sprint beginnen
 	- [DDO-1097](https://docmorrisgroup.atlassian.net/browse/DDO-1097) - 5 sp
+		- Donnerstag: Abstimmung mit Walter. Ich brauche hier Unterstützung
+	- [DDO-688](https://docmorrisgroup.atlassian.net/browse/DDO-688) - 5 sp
 		- Ordnungsbegriff einführen
 		- Hier mussten über das Customizing noch CI-Includes und Tabellenindizes angelegt werden
 		- [Ordnungsbegrif FI-CA](NOTES/Ordnungsbegrif%20FI-CA.md)
 		- Mein Test war erfolgreich. Originalauftrag und Retoure haben jetzt die gleiche Auftragsnummer im Ordnungsbegriff
 		- FPMA muss noch getestet werden
-	- [DDO-688](https://docmorrisgroup.atlassian.net/browse/DDO-688) - 5 sp
-		- Donnerstag: Abstimmung mit Walter. Ich brauche hier Unterstützung
-
 
 ### 2023-11-09 thursday
 
-
+ - *RKU*: Netznutzungsrechnungen auf Q1D Mandant 105 testen für den Workshop
+	 - Fiori Transaktionen prüfen (Abrechnung etc.)
+	 - Folien anpassen? Wo sind diese Folien?
+- *Kaffon*: Termin mit Richard vereinbaren
+	- Irgendwann im November (2h in seinem Büro)
+ - *DM*: [DDO-169 - Automatische Buchungen Gehalt - SAP](https://docmorrisgroup.atlassian.net/browse/DDO-169)
+ - *DM* - Mieke Krijn: Text bei Bankbuchung
+ - *DM* - Ticket Kontoauszug von Michell (Sebastian)
+ - 12:00 *RKU*: ENWR - GRDB-Fakturafehler - Klassen abrechenbarer Positionen - Erweiterung
+	 - Karl Johann
+ - 13:30 *DM* - DDO-1097 Analyse mit Walter
 
 ### 2023-11-10 friday
