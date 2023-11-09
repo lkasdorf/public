@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTES/Vim.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTES/Vim.md",
+                "file": "TODO.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOTES/Vim.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTES/Vim.md"
+                "file": "TODO.md"
               }
             }
           },
@@ -160,11 +160,14 @@
   },
   "active": "34461176a543c163",
   "lastOpenFiles": [
+    "NOTES/WorkshopRottweil.md",
+    "NOTES/WorkshopRottweil",
+    "NOTES/Vim.md",
+    "TODO.md",
     "00 TODO.md",
     "RKU.md",
     "NOTES/Linux.md",
     "NOTES/Tech Tips.md",
-    "NOTES/Vim.md",
     "NOTES/RKU NG Sperrbeleg anlegen.md",
     "NOTES/Ordnungsbegrif FI-CA.md",
     "NOTES/Plain Text Notes Information.md",
@@ -195,8 +198,6 @@
     "NOTES/Videos to watch (YT).md",
     "NOTES/SwitchToLinux.md",
     "NOTES/Linux_Howto.md",
-    "02_BUSINESS/KNOWLEDGE/Untitled.md",
-    "003 DAILY/2023-10-27.md",
     "TEST",
     "mynotes",
     "Vault root",
@@ -205,7 +206,6 @@
     "Untitled Folder",
     "COLLECTIONS",
     "KNOWLEDGE",
-    "export/Landlord Appolenia Agather Mbowe.odt",
-    "KNOWLEDGE/KNOWLEDGE/S4UTILITES"
+    "export/Landlord Appolenia Agather Mbowe.odt"
   ]
 }

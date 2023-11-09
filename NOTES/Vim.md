@@ -29,3 +29,9 @@ Read more at `:h window`
  - [Learn How to Use the Vim Text Editor (Episode 4) - Visual Mode](https://www.youtube.com/watch?v=rOKL1pW1UUc)
  - [Learn How to Use the Vim Text Editor (Episode 5) - Splitting your Vim Window](https://www.youtube.com/watch?v=fBsxD6itAgw)
  - [Learn How to Use the Vim Text Editor (Episode 6) - Tips, Tricks and How to Configure Vim](https://www.youtube.com/watch?v=mW_YiBIJPo4)
+
+# Neovim Kickstart
+
+[The Best Editor](https://www.youtube.com/watch?v=WgXO2cvmdQc)
+
+[kickstart.nvim (Github)](https://github.com/nvim-lua/kickstart.nvim)

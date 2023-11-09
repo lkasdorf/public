@@ -162,7 +162,7 @@
 		- 2 Mandanten auf einem System (LIEF und VNB)
 	- Themen für uns
 		- Convergent Invoicing
-	- ~~TODO: Dirk Friedrich fragen nach~~ 
+	- TODO: Dirk Friedrich fragen nach
 	- Termin morgen mit Karl wegen Sperrprozess
  - Meeting Markus Berger/Mohamed
 	 - Noch mal versucht, über Debugger den Mabis Fehler nachzustellen
