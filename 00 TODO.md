@@ -321,3 +321,9 @@ Notes: All Saints Day
 		- Wenn das Produktkonzept steht (René), können wir die Vorgaben an Carla geben
 
 ### 2023-11-10 friday
+
+- Test
+- Test
+- Test
+
+[Google](www.google.de) ist schon nicht schlecht.
