@@ -326,4 +326,4 @@ Notes: All Saints Day
 - Test
 - Test
 
-[Google](www.google.de) ist schon nicht schlecht.
+[Google](www.google.de) ist schon nicht schlecht, oder?
