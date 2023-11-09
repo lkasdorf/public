@@ -2,7 +2,11 @@
 
 # Transaktionen
 
+<<<<<<< HEAD
 /CHCNL/CP_MSGDSPL2 (message Tabelle HSL-ERP Schnittstelle)
+=======
+/CHCNL/CP_MSGDSPL2 (message Tabelle HSL-ERP Schnittstelle
+>>>>>>> 60a7168967c283558e46b4729378ad3f990c9969
 
 /CHCNL/FKK_RET_MED (Medpex-Retoure)
 
