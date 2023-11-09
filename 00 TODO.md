@@ -294,16 +294,6 @@ Notes: All Saints Day
 
 ### 2023-11-09 thursday
 
- - *RKU*: Netznutzungsrechnungen auf Q1D Mandant 105 testen für den Workshop
-	 - Fiori Transaktionen prüfen (Abrechnung etc.)
-	 - Folien anpassen? Wo sind diese Folien?
-- *Kaffon*: Termin mit Richard vereinbaren
-	- Irgendwann im November (2h in seinem Büro)
- - *DM*: [DDO-169 - Automatische Buchungen Gehalt - SAP](https://docmorrisgroup.atlassian.net/browse/DDO-169)
- - *DM* - Mieke Krijn: Text bei Bankbuchung
- - *DM* - Ticket Kontoauszug von Michell (Sebastian)
- - 12:00 *RKU*: ENWR - GRDB-Fakturafehler - Klassen abrechenbarer Positionen - Erweiterung (Karl Johann)
- - 13:30 *DM* - DDO-1097 Analyse mit Walter
 
 ---
 
@@ -319,11 +309,23 @@ Notes: All Saints Day
 	- Termin wird nächstes mal fortgeführt
 	- Ergebnis des Termins: Wir wollen erstmal mit Vorlage Vertragskonto arbeiten (René) --> Kerstin: Vorlage VEB
 		- Wenn das Produktkonzept steht (René), können wir die Vorgaben an Carla geben
+ - 12:00 *RKU*: ENWR - GRDB-Fakturafehler - Klassen abrechenbarer Positionen - Erweiterung (Karl Johann)
+	 - Es lag an den Schnittstellenkomponenten. Allerdings funktioniert es immer noch nicht. Wir schauen morgen nochmal mit Deniz
+ - 13:30 *DM* - DDO-1097 Analyse mit Walter
+	 - Ich habe ein Beispiel für morgen organisiert und wir schauen uns das morgen nochmal gemeinsam an.
+- *Kaffon*: Termin mit Richard vereinbaren
+	- Irgendwann im November (2h in seinem Büro)
+	- Ich habe Richard eine Mail geschrieben mit der Bitte um einen Termin diesen Monat.
 
 ### 2023-11-10 friday
 
-- Test
-- Test
-- Test
+Priorität hat die Workshop Vorbereitung für Montag. Ich muss nochmal mit Karl das morgen abstimmen.
 
-[Google](www.google.de) ist schon nicht schlecht, oder?
+ - *RKU*: Netznutzungsrechnungen auf Q1D Mandant 105 testen für den Workshop
+	 - Fiori Transaktionen prüfen (Abrechnung etc.)
+	 - Folien anpassen? Wo sind diese Folien?
+ - *DM*: [DDO-169 - Automatische Buchungen Gehalt - SAP](https://docmorrisgroup.atlassian.net/browse/DDO-169)
+ - *DM* - Mieke Krijn: Text bei Bankbuchung
+ - *DM* - Ticket Kontoauszug von Michell (Sebastian)
+ - *DM*: IBAN Kontoauszug mit Walter prüfen
+ - *DM*: Ticket Tennyson Kontoauszug
