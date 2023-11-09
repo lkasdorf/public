@@ -302,8 +302,16 @@ Notes: All Saints Day
  - *DM*: [DDO-169 - Automatische Buchungen Gehalt - SAP](https://docmorrisgroup.atlassian.net/browse/DDO-169)
  - *DM* - Mieke Krijn: Text bei Bankbuchung
  - *DM* - Ticket Kontoauszug von Michell (Sebastian)
+ - 11:00 *RKU*: NextGen LIEF: Zuarbeiten aus Stream Abrechnung und FI-CA
  - 12:00 *RKU*: ENWR - GRDB-Fakturafehler - Klassen abrechenbarer Positionen - Erweiterung
 	 - Karl Johann
  - 13:30 *DM* - DDO-1097 Analyse mit Walter
+
+---
+
+ - 10:00 *RKU* Daily NG Lief
+	 - Wir brauchen noch eine klare Vorgehensweise für die Buckets
+	 - Ina stimmt mit PL ab, wie es mit der Arvato Kontoauszugslösung weitergeht
+		 - Sie hat angedeutet, dass die Kunden wahrscheinlich wieder mit Seralla/Hanseorga gehen werden, weil es im Core wahrscheinlich zum Einsatz kommen wird.
 
 ### 2023-11-10 friday
