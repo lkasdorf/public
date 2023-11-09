@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 TODO.md",
-                "mode": "source",
+                "file": "NOTES/Vim.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 TODO.md",
+                "file": "NOTES/Vim.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 TODO.md",
+                "file": "NOTES/Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 TODO.md"
+                "file": "NOTES/Vim.md"
               }
             }
           },
@@ -160,14 +160,15 @@
   },
   "active": "34461176a543c163",
   "lastOpenFiles": [
+    "NOTES/Linux.md",
+    "NOTES/Vim.md",
+    "00 TODO.md",
     "NOTES/Tech Tips.md",
     "NOTES/RKU NG Sperrbeleg anlegen.md",
     "NOTES/Ordnungsbegrif FI-CA.md",
     "NOTES/Plain Text Notes Information.md",
     "NOTES/Links for S4 Utilities.md",
-    "00 TODO.md",
     "NOTES/Docmorris Transactions.md",
-    "NOTES/Linux.md",
     "RKU.md",
     "media/Ordnungsbegriff_6.png",
     "media/Ordnungsbegriff_5.png",
@@ -196,7 +197,6 @@
     "NOTES/Linux_Howto.md",
     "02_BUSINESS/KNOWLEDGE/Untitled.md",
     "003 DAILY/2023-10-27.md",
-    "TEST/test.md",
     "TEST",
     "mynotes",
     "Vault root",
