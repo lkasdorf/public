@@ -315,7 +315,7 @@ Notes: All Saints Day
 	 - Ich habe ein Beispiel für morgen organisiert und wir schauen uns das morgen nochmal gemeinsam an.
 - *Kaffon*: Termin mit Richard vereinbaren
 	- Irgendwann im November (2h in seinem Büro)
-	- Ich habe Richard eine Mail geschrieben mit der Bitte um einen Termin diesen Monat.
+	- Ich habe Richard eine E-Mail geschrieben mit der Bitte um einen Termin diesen Monat.
 
 ### 2023-11-10 friday
 
@@ -329,3 +329,5 @@ Priorität hat die Workshop Vorbereitung für Montag. Ich muss nochmal mit Karl 
  - *DM* - Ticket Kontoauszug von Michell (Sebastian)
  - *DM*: IBAN Kontoauszug mit Walter prüfen
  - *DM*: Ticket Tennyson Kontoauszug
+
+
