@@ -294,9 +294,6 @@ Notes: All Saints Day
 
 ### 2023-11-09 thursday
 
-
----
-
  - 10:00 *RKU* Daily NG Lief
 	 - Wir brauchen noch eine klare Vorgehensweise für die Buckets
 	 - Ina stimmt mit PL ab, wie es mit der Arvato Kontoauszugslösung weitergeht
