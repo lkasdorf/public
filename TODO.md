@@ -347,3 +347,4 @@ Priorität hat die Workshop Vorbereitung für Montag. Ich muss nochmal mit Karl 
 ### 2023-11-14 tuesday
 
  - TBD
+ - Next Point
