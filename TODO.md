@@ -336,3 +336,4 @@ Priorität hat die Workshop Vorbereitung für Montag. Ich muss nochmal mit Karl 
  - *DM* - Mieke Krijn: Text bei Bankbuchung
  - *DM* - Ticket Kontoauszug von Michell (Sebastian)
 
+![](/content/images/notes/TODO/23-11-10-19-25-16.png)

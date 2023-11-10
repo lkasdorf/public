@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f9f20b6264872ea8",
+        "id": "43bf071b2140ff30",
         "type": "tabs",
         "children": [
           {
-            "id": "34461176a543c163",
+            "id": "a72cfb56962bb99f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,7 +16,7 @@
                 "file": "TODO.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -158,12 +158,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "34461176a543c163",
+  "active": "a72cfb56962bb99f",
   "lastOpenFiles": [
+    "content/images/notes/TODO/23-11-10-19-25-16.png",
+    "content/images/notes/TODO/23-11-10-19-23-04.png",
+    "content/images/notes/TODO/23-11-10-19-19-04.png",
+    "media/Pasted image 20231110191615.png",
+    "images/notes/TODO/testscreenshot.png.md",
+    "images/notes/TODO/testscreenshot.png",
+    "content/images/notes/TODO/test2.png",
+    "TODO.md",
+    "images/notes/TODO",
+    "images/notes",
+    "images",
+    "content/images/notes/TODO/testscreenshot.png",
+    "content/images/notes/TODO",
+    "content/images/notes",
+    "content/images",
+    "content",
     "NOTES/WorkshopRottweil.md",
     "NOTES/WorkshopRottweil",
     "NOTES/Vim.md",
-    "TODO.md",
     "00 TODO.md",
     "RKU.md",
     "NOTES/Linux.md",
@@ -177,15 +192,9 @@
     "media/Ordnungsbegriff_5.png",
     "media/Ordnungsbegriff_4.png",
     "media/Ordnungsbegriff_3.png",
-    "media/Ordnungsbegriff_2.png",
-    "media/Ordnungsbegriff_1.png",
-    "media/DM_restart_Message_report.png",
     "Testcanvas.canvas",
     "Untitled.md",
     "NOTES/My Domains.md",
-    "media/terminal_find.png",
-    "media/terminal_which.png",
-    "media/terminal_locate.png",
     "NOTES/Einrichtung Sperrkostenabrechnung.md",
     "NOTES/Tanzania.md",
     "KNOWLEDGE/FICA.md",
@@ -196,16 +205,7 @@
     "COLLECTIONS/Vim_cheatsheet.md",
     "NOTES/nvim.md",
     "NOTES/Videos to watch (YT).md",
-    "NOTES/SwitchToLinux.md",
-    "NOTES/Linux_Howto.md",
     "TEST",
-    "mynotes",
-    "Vault root",
-    "remote-notes",
-    "003 DAILY",
-    "Untitled Folder",
-    "COLLECTIONS",
-    "KNOWLEDGE",
-    "export/Landlord Appolenia Agather Mbowe.odt"
+    "mynotes"
   ]
 }
