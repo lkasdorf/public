@@ -321,10 +321,18 @@ Priorität hat die Workshop Vorbereitung für Montag. Ich muss nochmal mit Karl 
  - *RKU*: Netznutzungsrechnungen auf Q1D Mandant 105 testen für den Workshop
 	 - Fiori Transaktionen prüfen (Abrechnung etc.)
 	 - Folien anpassen? Wo sind diese Folien?
+	 - Folien sind in Ordnung, irgendwer hat die auch aufgehübscht.
+	 - Ich habe einen Fall von Sebastian getestet und hier lief alles einwandfrei
+ - *DM*: IBAN Kontoauszug mit Walter prüfen (DDO-1097)
+	 - Das konnten wir heute erfolgreich umsetzen und auch schon testen
+ - *DM*: Ticket Tennyson Kontoauszug
+	 - Komischer Fall, wahrscheinlich ist die Buchungsregel für den GVC 116 nicht passend.
+ - *Kaffon*: Alle Stunden gebucht
+
+### 2023-11-13 monday
+
+ - Workshop Rottweil ganztägig (WICHTIG)
  - *DM*: [DDO-169 - Automatische Buchungen Gehalt - SAP](https://docmorrisgroup.atlassian.net/browse/DDO-169)
  - *DM* - Mieke Krijn: Text bei Bankbuchung
  - *DM* - Ticket Kontoauszug von Michell (Sebastian)
- - *DM*: IBAN Kontoauszug mit Walter prüfen (DDO-1097)
- - *DM*: Ticket Tennyson Kontoauszug
- - *Kaffon*: Alle Stunden gebucht
 
