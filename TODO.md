@@ -324,7 +324,7 @@ Priorität hat die Workshop Vorbereitung für Montag. Ich muss nochmal mit Karl 
  - *DM*: [DDO-169 - Automatische Buchungen Gehalt - SAP](https://docmorrisgroup.atlassian.net/browse/DDO-169)
  - *DM* - Mieke Krijn: Text bei Bankbuchung
  - *DM* - Ticket Kontoauszug von Michell (Sebastian)
- - *DM*: IBAN Kontoauszug mit Walter prüfen
+ - *DM*: IBAN Kontoauszug mit Walter prüfen (DDO-1097)
  - *DM*: Ticket Tennyson Kontoauszug
  - *Kaffon*: Alle Stunden gebucht
 
