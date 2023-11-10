@@ -343,3 +343,7 @@ Priorität hat die Workshop Vorbereitung für Montag. Ich muss nochmal mit Karl 
 				- Lieferschein zeigen
 			- Faktura
 				- PDocs zeigen
+
+### 2023-11-14 tuesday
+
+ - TBD
