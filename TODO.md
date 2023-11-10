@@ -335,3 +335,11 @@ Priorität hat die Workshop Vorbereitung für Montag. Ich muss nochmal mit Karl 
  - *DM*: [DDO-169 - Automatische Buchungen Gehalt - SAP](https://docmorrisgroup.atlassian.net/browse/DDO-169)
  - *DM* - Mieke Krijn: Text bei Bankbuchung
  - *DM* - Ticket Kontoauszug von Michell (Sebastian)
+ - *RKU*: Notes Workshop
+	- Mein Part: Netznutzungsrechnung
+		- Erst Folien (langsam sprechen)
+		- Dann Systemeinblick
+			- Abrechnung
+				- Lieferschein zeigen
+			- Faktura
+				- PDocs zeigen
