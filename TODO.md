@@ -326,5 +326,5 @@ Priorität hat die Workshop Vorbereitung für Montag. Ich muss nochmal mit Karl 
  - *DM* - Ticket Kontoauszug von Michell (Sebastian)
  - *DM*: IBAN Kontoauszug mit Walter prüfen
  - *DM*: Ticket Tennyson Kontoauszug
-
+ - *Kaffon*: Alle Stunden gebucht
 
