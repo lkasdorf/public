@@ -1,6 +1,6 @@
 # Links
 
-[Plain Text Notes Information](NOTES/Plain%20Text%20Notes%20Information.md)
+[Plain_Text_Notes](NOTES/Plain_Text_Notes.md)
 
 # 2023
 
@@ -173,7 +173,7 @@
 		- 10126667147
 	- Leventh Önder extern
 	- Phillip Siegfranz intern (aber nett)
-	- Sperrbeleg anlegen [RKU NG Sperrbeleg anlegen](NOTES/RKU%20NG%20Sperrbeleg%20anlegen.md) 
+	- Sperrbeleg anlegen [RKU_Sperrbeleg](NOTES/RKU_Sperrbeleg.md) 
  - *Docmorris*: Fehler Retoure HSL
 	 - [Klarna HSL: Buchung Zahlungsausgang aus Retoure Falsch (TVG 0019 fehlt - DDO-1152)](https://docmorrisgroup.atlassian.net/browse/DDO-1152)
 	 - Das habe ich Peter zugewiesen. Er muss den Teilvorgang bei Retoure über die Tabelle "/CHCNL/FKK_TVORG" ermitteln. Zurzeit wird da irgendwa komkateniert und das passt nicht mehr mit den neuen Klarna Zahlwegen (0 und N) zusammen.
@@ -191,7 +191,7 @@ Notes: All Saints Day
 
 - 11:00 *RKU*: **Meeting**: Abstimmung ENWR - Vorbereitung Workshop
 	- Abrechnung Sperrkosten mit Karl korrigieren
-	- Wir haben es geschaftt, abrechenbare Positionen anzulegen (siehe [RKU NG Sperrbeleg anlegen](NOTES/RKU%20NG%20Sperrbeleg%20anlegen.md))
+	- Wir haben es geschaftt, abrechenbare Positionen anzulegen (siehe [RKU_Sperrbeleg](NOTES/RKU_Sperrbeleg.md))
 	- Es gibt noch Probleme mit der Faktura (Sparte und Serviceanbieter sind nicht gefüllt)
  - *RKU*: DMEE und Zahlungsträger dokumentieren
 	 - Habe ich ins Konzeptdokument aufgenommen
@@ -214,8 +214,8 @@ Notes: All Saints Day
 			- Walter hat den Fehler gefunden und wird ihn mit [Correction of /CHCNL/FKK_GET_TVORG](https://docmorrisgroup.atlassian.net/browse/DDO-1166) beheben
 		- Belege müssen storniert und neu gebucht werden
 			- Entweder LSMW oder die message neu verarbeiten (Rückmeldung Jörg abwarten)
-			- Jörg: Messages neu starten: Report /CHCNL/CP_MSG_RECOVERY (siehe [Docmorris Transactions](NOTES/Docmorris%20Transactions.md))
-	- Transaktionen von Tennyson -> [Docmorris Transactions](NOTES/Docmorris%20Transactions.md)
+			- Jörg: Messages neu starten: Report /CHCNL/CP_MSG_RECOVERY (siehe [Docmorris_TCodes](NOTES/Docmorris_TCodes.md))
+	- Transaktionen von Tennyson -> [Docmorris_TCodes](NOTES/Docmorris_TCodes.md)
 - *RKU*: Faktura Sperrkostenabrechnung. Wir müssen mit Deniz oder Birgit sprechen (siehe Termin 2023-11-01)
 	- Karl hat einen Hinweis gefunden [3379243 - Billable items are created without division for GPKE Additional Service Billing](https://me.sap.com/notes/3379243/E)
 	- Ling Ling hat ihn eingespielt, muss jetzt nochmal getestet werden
@@ -288,7 +288,7 @@ Notes: All Saints Day
 	- [DDO-688](https://docmorrisgroup.atlassian.net/browse/DDO-688) - 5 sp
 		- Ordnungsbegriff einführen
 		- Hier mussten über das Customizing noch CI-Includes und Tabellenindizes angelegt werden
-		- [Ordnungsbegrif FI-CA](NOTES/Ordnungsbegrif%20FI-CA.md)
+		- [Ordnungsbegriff_FI-CA](NOTES/Ordnungsbegriff_FI-CA.md)
 		- Mein Test war erfolgreich. Originalauftrag und Retoure haben jetzt die gleiche Auftragsnummer im Ordnungsbegriff
 		- FPMA muss noch getestet werden
 

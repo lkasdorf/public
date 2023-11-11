@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "RKU.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "RKU.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "RKU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "RKU.md"
               }
             }
           },
@@ -160,6 +160,8 @@
   },
   "active": "a72cfb56962bb99f",
   "lastOpenFiles": [
+    "TODO.md",
+    "NOTES/Ordnungsbegriff_FI-CA.md",
     "content/images/notes/TODO/23-11-10-19-25-16.png",
     "content/images/notes/TODO/23-11-10-19-23-04.png",
     "content/images/notes/TODO/23-11-10-19-19-04.png",
@@ -167,7 +169,6 @@
     "images/notes/TODO/testscreenshot.png.md",
     "images/notes/TODO/testscreenshot.png",
     "content/images/notes/TODO/test2.png",
-    "TODO.md",
     "images/notes/TODO",
     "images/notes",
     "images",
@@ -182,19 +183,17 @@
     "00 TODO.md",
     "RKU.md",
     "NOTES/Linux.md",
-    "NOTES/Tech Tips.md",
-    "NOTES/RKU NG Sperrbeleg anlegen.md",
-    "NOTES/Ordnungsbegrif FI-CA.md",
-    "NOTES/Plain Text Notes Information.md",
-    "NOTES/Links for S4 Utilities.md",
-    "NOTES/Docmorris Transactions.md",
+    "NOTES/TechTips.md",
+    "NOTES/RKU_Sperrbeleg.md",
+    "NOTES/Plain_Text_Notes.md",
+    "NOTES/Links_for_S4Utilities.md",
+    "NOTES/Docmorris_TCodes.md",
     "media/Ordnungsbegriff_6.png",
     "media/Ordnungsbegriff_5.png",
     "media/Ordnungsbegriff_4.png",
-    "media/Ordnungsbegriff_3.png",
     "Testcanvas.canvas",
     "Untitled.md",
-    "NOTES/My Domains.md",
+    "NOTES/MyDomains.md",
     "NOTES/Einrichtung Sperrkostenabrechnung.md",
     "NOTES/Tanzania.md",
     "KNOWLEDGE/FICA.md",
