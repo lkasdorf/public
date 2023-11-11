@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RKU.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RKU.md",
+                "file": "TODO.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RKU.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RKU.md"
+                "file": "TODO.md"
               }
             }
           },
@@ -160,6 +160,8 @@
   },
   "active": "a72cfb56962bb99f",
   "lastOpenFiles": [
+    "newnote.md",
+    "RKU.md",
     "TODO.md",
     "NOTES/Ordnungsbegriff_FI-CA.md",
     "content/images/notes/TODO/23-11-10-19-25-16.png",
@@ -181,7 +183,6 @@
     "NOTES/WorkshopRottweil",
     "NOTES/Vim.md",
     "00 TODO.md",
-    "RKU.md",
     "NOTES/Linux.md",
     "NOTES/TechTips.md",
     "NOTES/RKU_Sperrbeleg.md",
