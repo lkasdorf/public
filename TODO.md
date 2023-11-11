@@ -1,4 +1,4 @@
-# Links
+ Links
 
 [Plain_Text_Notes](NOTES/Plain_Text_Notes.md)
 
@@ -349,5 +349,3 @@ Priorität hat die Workshop Vorbereitung für Montag. Ich muss nochmal mit Karl 
  - TBD
  - Next Point
  - 01:28 Test
-
-![](/content/images/notes/TODO/telegram_screenshot.png)

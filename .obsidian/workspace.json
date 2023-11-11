@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
-                "mode": "source",
+                "file": "NOTES/Ordnungsbegriff_FI-CA.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "NOTES/Ordnungsbegriff_FI-CA.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "NOTES/Ordnungsbegriff_FI-CA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "NOTES/Ordnungsbegriff_FI-CA.md"
               }
             }
           },
@@ -160,10 +160,15 @@
   },
   "active": "a72cfb56962bb99f",
   "lastOpenFiles": [
+    "NOTES/Plain_Text_Notes.md",
+    "NOTES/RKU_Sperrbeleg.md",
+    "NOTES/TechTips.md",
+    "NOTES/Vim.md",
+    "NOTES/WorkshopRottweil.md",
+    "NOTES/Ordnungsbegriff_FI-CA.md",
+    "TODO.md",
     "newnote.md",
     "RKU.md",
-    "TODO.md",
-    "NOTES/Ordnungsbegriff_FI-CA.md",
     "content/images/notes/TODO/23-11-10-19-25-16.png",
     "content/images/notes/TODO/23-11-10-19-23-04.png",
     "content/images/notes/TODO/23-11-10-19-19-04.png",
@@ -179,14 +184,9 @@
     "content/images/notes",
     "content/images",
     "content",
-    "NOTES/WorkshopRottweil.md",
     "NOTES/WorkshopRottweil",
-    "NOTES/Vim.md",
     "00 TODO.md",
     "NOTES/Linux.md",
-    "NOTES/TechTips.md",
-    "NOTES/RKU_Sperrbeleg.md",
-    "NOTES/Plain_Text_Notes.md",
     "NOTES/Links_for_S4Utilities.md",
     "NOTES/Docmorris_TCodes.md",
     "media/Ordnungsbegriff_6.png",
