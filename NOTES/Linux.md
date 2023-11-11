@@ -23,6 +23,8 @@
 	- cat clone with syntax highlighting and git integration
 - fzf
 	- Search Tools
+- wttr.in
+	- [wttr.in](https://github.com/chubin/wttr.in)
 
 # Guides and Tutorials
 
@@ -60,6 +62,8 @@ Alle Informationen: inxi -Fxz
 ## Piping in Linux
 
 [geeksforgeeks: Piping in Linux](https://www.geeksforgeeks.org/piping-in-unix-or-linux/)
+
+
 
 # Network
 
