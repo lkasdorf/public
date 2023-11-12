@@ -1,4 +1,4 @@
- Links
+# Links
 
 [Plain_Text_Notes](NOTES/Plain_Text_Notes.md)
 
@@ -346,6 +346,7 @@ Priorität hat die Workshop Vorbereitung für Montag. Ich muss nochmal mit Karl 
 
 ### 2023-11-14 tuesday
 
- - TBD
- - Next Point
+This is a test.
+Hallo.
  - 01:28 Test
+

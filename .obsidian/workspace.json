@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTES/Ordnungsbegriff_FI-CA.md",
-                "mode": "preview",
+                "file": "TODO.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTES/Ordnungsbegriff_FI-CA.md",
+                "file": "TODO.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOTES/Ordnungsbegriff_FI-CA.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTES/Ordnungsbegriff_FI-CA.md"
+                "file": "TODO.md"
               }
             }
           },
@@ -160,13 +160,16 @@
   },
   "active": "a72cfb56962bb99f",
   "lastOpenFiles": [
+    "NOTES/Docmorris_TCodes.md",
+    "TODO.md",
+    "NOTES/TechTips.md",
+    "NOTES/Links_for_S4Utilities.md",
+    "NOTES/Ordnungsbegriff_FI-CA.md",
+    "Untitled.canvas",
     "NOTES/Plain_Text_Notes.md",
     "NOTES/RKU_Sperrbeleg.md",
-    "NOTES/TechTips.md",
     "NOTES/Vim.md",
     "NOTES/WorkshopRottweil.md",
-    "NOTES/Ordnungsbegriff_FI-CA.md",
-    "TODO.md",
     "newnote.md",
     "RKU.md",
     "content/images/notes/TODO/23-11-10-19-25-16.png",
@@ -187,8 +190,6 @@
     "NOTES/WorkshopRottweil",
     "00 TODO.md",
     "NOTES/Linux.md",
-    "NOTES/Links_for_S4Utilities.md",
-    "NOTES/Docmorris_TCodes.md",
     "media/Ordnungsbegriff_6.png",
     "media/Ordnungsbegriff_5.png",
     "media/Ordnungsbegriff_4.png",
@@ -204,7 +205,6 @@
     "COLLECTIONS/markdown-cheat-sheet.md",
     "COLLECTIONS/Vim_cheatsheet.md",
     "NOTES/nvim.md",
-    "NOTES/Videos to watch (YT).md",
     "TEST",
     "mynotes"
   ]
