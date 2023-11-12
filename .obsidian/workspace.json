@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "057e62001aa596db",
+    "type": "split",
+    "children": [
+      {
+        "id": "43bf071b2140ff30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a72cfb56962bb99f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test1206.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4135412dcebab2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a80e5e40e34b2969",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f83db4c30b4be79",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06c1cc4d4bcac0f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23e7ecf66fa898ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "81fc1de8675c5efa",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb45bd9e6ff8090a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ef7da203e8d4ce3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Test1206.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "374a3ea8a4e3774c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Test1206.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f8324c1af64bc26",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "67e0fa202a938d61",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Test1206.md"
+              }
+            }
+          },
+          {
+            "id": "90a7401f752d970d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 375.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "a72cfb56962bb99f",
+  "lastOpenFiles": [
+    "newnote.md",
+    "TODO.md",
+    "NOTES/Docmorris_TCodes.md",
+    "NOTES/TechTips.md",
+    "NOTES/Links_for_S4Utilities.md",
+    "NOTES/Ordnungsbegriff_FI-CA.md",
+    "Untitled.canvas",
+    "NOTES/Plain_Text_Notes.md",
+    "NOTES/RKU_Sperrbeleg.md",
+    "NOTES/Vim.md",
+    "NOTES/WorkshopRottweil.md",
+    "RKU.md",
+    "content/images/notes/TODO/23-11-10-19-25-16.png",
+    "content/images/notes/TODO/23-11-10-19-23-04.png",
+    "content/images/notes/TODO/23-11-10-19-19-04.png",
+    "media/Pasted image 20231110191615.png",
+    "images/notes/TODO/testscreenshot.png.md",
+    "images/notes/TODO/testscreenshot.png",
+    "content/images/notes/TODO/test2.png",
+    "images/notes/TODO",
+    "images/notes",
+    "images",
+    "content/images/notes/TODO/testscreenshot.png",
+    "content/images/notes/TODO",
+    "content/images/notes",
+    "content/images",
+    "content",
+    "NOTES/WorkshopRottweil",
+    "00 TODO.md",
+    "NOTES/Linux.md",
+    "media/Ordnungsbegriff_6.png",
+    "media/Ordnungsbegriff_5.png",
+    "media/Ordnungsbegriff_4.png",
+    "Testcanvas.canvas",
+    "Untitled.md",
+    "NOTES/MyDomains.md",
+    "NOTES/Einrichtung Sperrkostenabrechnung.md",
+    "NOTES/Tanzania.md",
+    "KNOWLEDGE/FICA.md",
+    "KNOWLEDGE/Finance.md",
+    "Journal.md",
+    "COLLECTIONS/Markdown_Guide.md",
+    "COLLECTIONS/markdown-cheat-sheet.md",
+    "COLLECTIONS/Vim_cheatsheet.md",
+    "NOTES/nvim.md",
+    "TEST",
+    "mynotes"
+  ]
+}
