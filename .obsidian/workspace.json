@@ -11,16 +11,25 @@
             "id": "a72cfb56962bb99f",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e0b61c8167c8a9fd",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Test1206.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Test1206.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Test1206.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Test1206.md"
               }
             }
           },
@@ -158,8 +167,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a72cfb56962bb99f",
+  "active": "e0b61c8167c8a9fd",
   "lastOpenFiles": [
+    "Test1206.md",
     "newnote.md",
     "TODO.md",
     "NOTES/Docmorris_TCodes.md",
@@ -194,7 +204,6 @@
     "media/Ordnungsbegriff_5.png",
     "media/Ordnungsbegriff_4.png",
     "Testcanvas.canvas",
-    "Untitled.md",
     "NOTES/MyDomains.md",
     "NOTES/Einrichtung Sperrkostenabrechnung.md",
     "NOTES/Tanzania.md",
